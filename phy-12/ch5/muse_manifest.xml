@@ -1,0 +1,79 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vgpt.atlancey.com" resolutions="1x" timestamp="1514387163324">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="55450205" ref="index"/>
+    <file name="5al.css" crc="4048053800" ref="5al"/>
+    <file name="5af.css" crc="291547982" ref="5af"/>
+    <file name="5am.css" crc="49215997" ref="5am"/>
+    <file name="5ag.css" crc="4199774560" ref="5ag"/>
+    <file name="5aa.css" crc="4107230632" ref="5aa"/>
+    <file name="5ah.css" crc="376399337" ref="5ah"/>
+    <file name="5ab.css" crc="252315037" ref="5ab"/>
+    <file name="5ai.css" crc="3797797029" ref="5ai"/>
+    <file name="5ac.css" crc="3867099008" ref="5ac"/>
+    <file name="5aj.css" crc="411733684" ref="5aj"/>
+    <file name="5ad.css" crc="401054668" ref="5ad"/>
+    <file name="5ak.css" crc="4081059912" ref="5ak"/>
+    <file name="5ae.css" crc="443439654" ref="5ae"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:5aa:5ab:5ac:5ad:5ae:5af:5ag:5ah:5ai:5aj:5ak:5al:5am"/>
+    <file name="museutils.js" crc="3790713428" ref="index:5aa:5ab:5ac:5ad:5ae:5af:5ag:5ah:5ai:5aj:5ak:5al:5am"/>
+    <file name="whatinput.js" crc="84559013" ref="index:5aa:5ab:5ac:5ad:5ae:5af:5ag:5ah:5ai:5aj:5ak:5al:5am"/>
+    <file name="pie.js" crc="3827607177" ref="index:5aa:5ab:5ac:5ad:5ae:5af:5ag:5ah:5ai:5aj:5ak:5al:5am"/>
+  </folder>
+  <folder name="images">
+    <file name="5a-15-1.jpg" crc="4259697301" seo="true" ref="5ab"/>
+    <file name="5a-15-2.jpg" crc="4134540189" seo="true" ref="5ab"/>
+    <file name="5a-16.jpg" crc="123639300" seo="true" ref="5ac"/>
+    <file name="5a-18-1.gif" crc="529211330" seo="true" ref="5ad"/>
+    <file name="5a-18-2.jpg" crc="4211260378" seo="true" ref="5ad"/>
+    <file name="5a-19.png" crc="456897090" seo="true" ref="5ae"/>
+    <file name="5a-20-1.jpg" crc="203823102" seo="true" ref="5ae"/>
+    <file name="5a-20-2.jpg" crc="3768691491" seo="true" ref="5ae"/>
+    <file name="5a-23.jpg" crc="3946695740" seo="true" ref="5af"/>
+    <file name="5a-25-1-crop-u18122.jpg" crc="121910196" ref="5ag"/>
+    <file name="5a-25-2-u18129.png" crc="4009062468" ref="5ag"/>
+    <file name="5a-25-3-u18136.png" crc="56636830" ref="5ag"/>
+    <file name="5a-25-4.jpg" crc="469565842" seo="true" ref="5ag"/>
+    <file name="5a-25-5.jpg" crc="4141307494" seo="true" ref="5ag"/>
+    <file name="5a-26.gif" crc="4288369034" seo="true" ref="5ah"/>
+    <file name="5a-27-1.gif" crc="157742321" seo="true" ref="5ah"/>
+    <file name="5a-27-2.jpg" crc="3891982795" seo="true" ref="5ah"/>
+    <file name="5a-28.jpg" crc="4230376661" seo="true" ref="5ah"/>
+    <file name="5a-30-1.jpg" crc="4075946270" seo="true" ref="5ai"/>
+    <file name="5a-30-2.jpg" crc="3836496525" seo="true" ref="5ai"/>
+    <file name="5a-30-3.jpg" crc="292987380" seo="true" ref="5ai"/>
+    <file name="5a-30-4.jpg" crc="223796566" seo="true" ref="5ai"/>
+    <file name="screenshot (92)-u77124.png" crc="256944716" ref="5aj"/>
+    <file name="5a-32-1.png" crc="452317159" seo="true" ref="5aj"/>
+    <file name="5a-33.png" crc="4213047901" seo="true" ref="5aj"/>
+    <file name="5a-34.jpg" crc="303596508" seo="true" ref="5ak"/>
+    <file name="5a-35-1.jpg" crc="256906096" seo="true" ref="5ak"/>
+    <file name="5a-35-2.jpg" crc="204766977" seo="true" ref="5ak"/>
+    <file name="5a-35-3.jpg" crc="4118081687" seo="true" ref="5ak"/>
+    <file name="5a-35-4.jpg" crc="209439446" seo="true" ref="5ak"/>
+    <file name="5a-35-5.jpg" crc="3977907850" seo="true" ref="5ak"/>
+    <file name="5a-37.png" crc="3934073212" seo="true" ref="5al"/>
+    <file name="5a-38-1.jpg" crc="324698027" seo="true" ref="5al"/>
+    <file name="5a-38-2.jpg" crc="3834656564" seo="true" ref="5al"/>
+    <file name="5a-39.jpg" crc="4053090140" seo="true" ref="5am"/>
+    <file name="5a-39-1.jpg" crc="4222900123" seo="true" ref="5am"/>
+    <file name="5a-39-2.jpg" crc="3789191586" seo="true" ref="5am"/>
+    <file name="77-1.gif" crc="251830526" seo="true" ref="5aj"/>
+  </folder>
+  <file name="index.html" crc="396363195" seo="true" mt="1513494784554" redirect="true"/>
+  <file name="5aa.html" crc="232078978" seo="true" mt="1513494881793" redirect="true"/>
+  <file name="5ab.html" crc="3984487279" seo="true" mt="1513494875414" redirect="true"/>
+  <file name="5ac.html" crc="3768181035" seo="true" mt="1513494921355" redirect="true"/>
+  <file name="5ad.html" crc="520043605" seo="true" mt="1513494963707" redirect="true"/>
+  <file name="5ae.html" crc="224919026" seo="true" mt="1513495017187" redirect="true"/>
+  <file name="5af.html" crc="410203777" seo="true" mt="1513495100151" redirect="true"/>
+  <file name="5ag.html" crc="157505764" seo="true" mt="1514386957058" redirect="true"/>
+  <file name="5ah.html" crc="257539721" seo="true" mt="1514386983324" redirect="true"/>
+  <file name="5ai.html" crc="321733826" seo="true" mt="1513495341056" redirect="true"/>
+  <file name="5aj.html" crc="3917359858" seo="true" mt="1514387106635" redirect="true"/>
+  <file name="5ak.html" crc="3895373554" seo="true" mt="1513495493336" redirect="true"/>
+  <file name="5al.html" crc="3797098764" seo="true" mt="1513496358504" redirect="true"/>
+  <file name="5am.html" crc="403849461" seo="true" mt="1513495575841" redirect="true"/>
+</manifest>

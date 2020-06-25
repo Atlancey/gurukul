@@ -1,0 +1,202 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vgpt.atlancey.com" resolutions="1x" timestamp="1513854564461">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="15327217" ref="index"/>
+    <file name="5a-sub.css" crc="3975231133" ref="5a-sub"/>
+    <file name="8abh.css" crc="355530282" ref="8abh"/>
+    <file name="8b.css" crc="478630622" ref="8b"/>
+    <file name="8bl.css" crc="125530754" ref="8bl"/>
+    <file name="4a-a.css" crc="425064886" ref="4a-a"/>
+    <file name="8ba.css" crc="4204858816" ref="8ba"/>
+    <file name="8abi.css" crc="3946452858" ref="8abi"/>
+    <file name="5a-g.css" crc="3970465082" ref="5a-g"/>
+    <file name="8be.css" crc="14085694" ref="8be"/>
+    <file name="8bc.css" crc="22308595" ref="8bc"/>
+    <file name="5aa-b.css" crc="3791724747" ref="5aa-b"/>
+    <file name="8abg.css" crc="4006734035" ref="8abg"/>
+    <file name="8bh.css" crc="19755643" ref="8bh"/>
+    <file name="5a-b.css" crc="353303855" ref="5a-b"/>
+    <file name="8bf.css" crc="459407612" ref="8bf"/>
+    <file name="8abc.css" crc="4107526277" ref="8abc"/>
+    <file name="3a-b.css" crc="118628702" ref="3a-b"/>
+    <file name="8abf.css" crc="3902747297" ref="8abf"/>
+    <file name="3a-sub.css" crc="174009354" ref="3a-sub"/>
+    <file name="3a-a.css" crc="273300090" ref="3a-a"/>
+    <file name="8bd.css" crc="3993996650" ref="8bd"/>
+    <file name="5a-f.css" crc="4010493363" ref="5a-f"/>
+    <file name="8bj.css" crc="3923877719" ref="8bj"/>
+    <file name="8a.css" crc="183518655" ref="8a"/>
+    <file name="8bi.css" crc="378018597" ref="8bi"/>
+    <file name="4a-b.css" crc="4281296062" ref="4a-b"/>
+    <file name="5a-e.css" crc="430460764" ref="5a-e"/>
+    <file name="8aba.css" crc="3901459222" ref="8aba"/>
+    <file name="8aaa.css" crc="198753411" ref="8aaa"/>
+    <file name="8abb.css" crc="276810436" ref="8abb"/>
+    <file name="8aab.css" crc="361018704" ref="8aab"/>
+    <file name="3a-d.css" crc="3782848710" ref="3a-d"/>
+    <file name="5aa-e.css" crc="4253394183" ref="5aa-e"/>
+    <file name="5a-c.css" crc="114751415" ref="5a-c"/>
+    <file name="8abd.css" crc="4265787624" ref="8abd"/>
+    <file name="5a-d.css" crc="220953280" ref="5a-d"/>
+    <file name="3a-c.css" crc="370329717" ref="3a-c"/>
+    <file name="4a-sub.css" crc="4110701366" ref="4a-sub"/>
+    <file name="8aa.css" crc="3834866099" ref="8aa"/>
+    <file name="5aa-a.css" crc="4063695103" ref="5aa-a"/>
+    <file name="5aa-d.css" crc="3761796078" ref="5aa-d"/>
+    <file name="5aa-c.css" crc="3805600810" ref="5aa-c"/>
+    <file name="8ab.css" crc="183470626" ref="8ab"/>
+    <file name="8abe.css" crc="3765466780" ref="8abe"/>
+    <file name="5aa-sub.css" crc="128954567" ref="5aa-sub"/>
+    <file name="8bb.css" crc="4157667197" ref="8bb"/>
+    <file name="5a-a.css" crc="194101738" ref="5a-a"/>
+    <file name="8bg.css" crc="3944943878" ref="8bg"/>
+    <file name="8bk.css" crc="3885242809" ref="8bk"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:8b:8ba:8bb:8bc:8bd:8be:8bf:8bg:8bh:8bi:8bj:8bk:8bl:8a:8aa:3a-sub:4a-sub:5a-sub:8aaa:8aab:3a-a:3a-b:3a-c:3a-d:4a-a:4a-b:5a-a:5a-b:5a-c:5a-d:5a-e:5a-f:5a-g:8ab:5aa-sub:8aba:8abb:8abc:8abd:8abe:5aa-a:5aa-b:5aa-c:5aa-d:5aa-e:8abf:8abg:8abh:8abi"/>
+    <file name="museutils.js" crc="3790713428" ref="index:8b:8ba:8bb:8bc:8bd:8be:8bf:8bg:8bh:8bi:8bj:8bk:8bl:8a:8aa:3a-sub:4a-sub:5a-sub:8aaa:8aab:3a-a:3a-b:3a-c:3a-d:4a-a:4a-b:5a-a:5a-b:5a-c:5a-d:5a-e:5a-f:5a-g:8ab:5aa-sub:8aba:8abb:8abc:8abd:8abe:5aa-a:5aa-b:5aa-c:5aa-d:5aa-e:8abf:8abg:8abh:8abi"/>
+    <file name="whatinput.js" crc="84559013" ref="index:8b:8ba:8bb:8bc:8bd:8be:8bf:8bg:8bh:8bi:8bj:8bk:8bl:8a:8aa:3a-sub:4a-sub:5a-sub:8aaa:8aab:3a-a:3a-b:3a-c:3a-d:4a-a:4a-b:5a-a:5a-b:5a-c:5a-d:5a-e:5a-f:5a-g:8ab:5aa-sub:8aba:8abb:8abc:8abd:8abe:5aa-a:5aa-b:5aa-c:5aa-d:5aa-e:8abf:8abg:8abh:8abi"/>
+    <file name="pie.js" crc="3827607177" ref="index:8b:8ba:8bb:8bc:8bd:8be:8bf:8bg:8bh:8bi:8bj:8bk:8bl:8a:8aa:3a-sub:4a-sub:5a-sub:8aaa:8aab:3a-a:3a-b:3a-c:3a-d:4a-a:4a-b:5a-a:5a-b:5a-c:5a-d:5a-e:5a-f:5a-g:8ab:5aa-sub:8aba:8abb:8abc:8abd:8abe:5aa-a:5aa-b:5aa-c:5aa-d:5aa-e:8abf:8abg:8abh:8abi"/>
+  </folder>
+  <folder name="images">
+    <file name="slide0003_image006.gif" crc="31496384" seo="true" ref="8bb"/>
+    <file name="slide0004_image009.jpg" crc="378605079" seo="true" ref="8bc"/>
+    <file name="slide0005_image012.gif" crc="4251752937" seo="true" ref="8bc"/>
+    <file name="slide0006_image016.jpg" crc="206594635" seo="true" ref="8bd"/>
+    <file name="slide0007_image019.jpg" crc="3988195378" seo="true" ref="8bd"/>
+    <file name="slide0007_image021.jpg" crc="4218579958" seo="true" ref="8bd"/>
+    <file name="slide0007_image023.jpg" crc="325232517" seo="true" ref="8bd"/>
+    <file name="slide0008_image026-u35541.png" crc="4135108692" ref="8be"/>
+    <file name="slide0009_image030.jpg" crc="3849589872" seo="true" ref="8bf"/>
+    <file name="slide0010_image034.jpg" crc="88403918" seo="true" ref="8bg"/>
+    <file name="slide0011_image038.gif" crc="4217894471" seo="true" ref="8bh"/>
+    <file name="picture4.jpg" crc="337886040" seo="true" ref="8bh"/>
+    <file name="slide0012_image043.gif" crc="3808320502" seo="true" ref="8bh"/>
+    <file name="picture5.jpg" crc="14780459" seo="true" ref="8bh"/>
+    <file name="slide0013_image048.gif" crc="4004663659" seo="true" ref="8bh"/>
+    <file name="slide0014_image052.png" crc="3885887123" seo="true" ref="8bi"/>
+    <file name="slide0014_image054.png" crc="3767711933" seo="true" ref="8bi"/>
+    <file name="slide0014_image056.png" crc="3963698098" seo="true" ref="8bi"/>
+    <file name="slide0014_image058.png" crc="3944950478" seo="true" ref="8bi"/>
+    <file name="slide0015_image062.jpg" crc="516940613" seo="true" ref="8bj"/>
+    <file name="picture6-u50612.png" crc="3867249596" ref="8bj"/>
+    <file name="slide0018_image070.gif" crc="47761543" seo="true" ref="8bl"/>
+    <file name="slide0018_image071.gif" crc="107182863" seo="true" ref="8bl"/>
+    <file name="8a1-16-u36394.png" crc="3941321762" ref="8aab"/>
+    <file name="8a1-17-u36404.png" crc="207748706" ref="8aab"/>
+    <file name="8a1-18-u36417.png" crc="4245845906" ref="8aab"/>
+    <file name="8a1-19.gif" crc="3840215949" seo="true" ref="3a-a"/>
+    <file name="8a1-20-1.gif" crc="370055007" seo="true" ref="3a-a"/>
+    <file name="8a1-20-2.gif" crc="443348297" seo="true" ref="3a-a"/>
+    <file name="8a1-21-u36524.png" crc="245853931" ref="3a-a"/>
+    <file name="8a1-22-1.gif" crc="143048327" seo="true" ref="3a-a"/>
+    <file name="8a1-22-2.gif" crc="3975163752" seo="true" ref="3a-a"/>
+    <file name="8a1-23-1-u36610.png" crc="3821434563" ref="3a-b"/>
+    <file name="8a1-23-2-u36622.png" crc="4238275397" ref="3a-b"/>
+    <file name="8a1-24-1.gif" crc="141361245" seo="true" ref="3a-c"/>
+    <file name="8a1-24-2.gif" crc="4117201122" seo="true" ref="3a-c"/>
+    <file name="8a1-25-u36676.png" crc="32018199" ref="3a-c"/>
+    <file name="8a1-27-1-u36727.png" crc="166791828" ref="3a-d"/>
+    <file name="8a1-27-2.gif" crc="483146991" seo="true" ref="3a-d"/>
+    <file name="8a1-29-u36772.png" crc="3862705930" ref="4a-a"/>
+    <file name="8a1-30.gif" crc="445397152" seo="true" ref="4a-b"/>
+    <file name="8a1-31-u36812.png" crc="213624480" ref="4a-b"/>
+    <file name="8a1-33.gif" crc="33769111" seo="true" ref="5a-a"/>
+    <file name="8a1-34-u36860.png" crc="24774777" ref="5a-a"/>
+    <file name="8a1-35.gif" crc="398686126" seo="true" ref="5a-a"/>
+    <file name="8a1-36-1-u36917.png" crc="3990664255" ref="5a-b"/>
+    <file name="8a1-36-2-u36927.png" crc="4243798017" ref="5a-b"/>
+    <file name="8a1-37-u36942.png" crc="4098284883" ref="5a-b"/>
+    <file name="8a1-38.png" crc="386518572" seo="true" ref="5a-c"/>
+    <file name="8a1-39.gif" crc="293115258" seo="true" ref="5a-d"/>
+    <file name="8a1-40-1.gif" crc="4269389315" seo="true" ref="5a-d"/>
+    <file name="picture1-u50552.png" crc="155288408" ref="5a-d"/>
+    <file name="picture2-u50562.png" crc="312510537" ref="5a-e"/>
+    <file name="8a1-42.gif" crc="4273849715" seo="true" ref="5a-f"/>
+    <file name="8a1-43-u37119.png" crc="4201184207" ref="5a-f"/>
+    <file name="8a1-44-1.png" crc="458665350" seo="true" ref="5a-f"/>
+    <file name="8a1-44-2-u37148.png" crc="388159843" ref="5a-f"/>
+    <file name="8a1-45.png" crc="474198421" seo="true" ref="5a-f"/>
+    <file name="8a1-46-1.png" crc="3970323021" seo="true" ref="5a-f"/>
+    <file name="8a1-46-2-u37187.png" crc="121864456" ref="5a-f"/>
+    <file name="8a2-12.gif" crc="4227902189" seo="true" ref="8aba"/>
+    <file name="8a2-14.jpg" crc="3940966558" seo="true" ref="8abb"/>
+    <file name="8a2-16-u37505.png" crc="4273754471" ref="8abc"/>
+    <file name="slide0002_image006-u37536.png" crc="4154219155" ref="8abd"/>
+    <file name="slide0002_image008-u37546.png" crc="3800092362" ref="8abd"/>
+    <file name="slide0003_image012-u37582.png" crc="492637606" ref="8abe"/>
+    <file name="slide0004_image015-u37601.png" crc="304481895" ref="8abe"/>
+    <file name="slide0004_image017.jpg" crc="4158507175" seo="true" ref="8abe"/>
+    <file name="slide0004_image019-u37620.png" crc="4139013031" ref="8abe"/>
+    <file name="slide0005_image023.jpg" crc="3884338084" seo="true" ref="5aa-a"/>
+    <file name="slide0006_image026-u37678.png" crc="521354883" ref="5aa-a"/>
+    <file name="picture3-u50582.png" crc="466848796" ref="5aa-a"/>
+    <file name="slide0009_image034-u37743.png" crc="3865061655" ref="5aa-c"/>
+    <file name="slide0010_image038-u37779.png" crc="508557383" ref="5aa-d"/>
+    <file name="slide0011_image042-u37812.png" crc="339247804" ref="5aa-e"/>
+    <file name="slide0012_image046-u37843.png" crc="3849375440" ref="8abf"/>
+    <file name="slide0012_image048slide0012_image048.gif" crc="4202068684" seo="true" ref="8abf"/>
+    <file name="slide0013_image050.gif" crc="4147058693" seo="true" ref="8abf"/>
+    <file name="slide0013_image051-u37873.png" crc="4026287701" ref="8abf"/>
+    <file name="slide0013_image053.jpg" crc="4273060957" seo="true" ref="8abf"/>
+    <file name="slide0015_image057.gif" crc="449506612" seo="true" ref="8abg"/>
+    <file name="slide0015_image058.gif" crc="4045498200" seo="true" ref="8abg"/>
+    <file name="slide0016_image061.jpg" crc="357311172" seo="true" ref="8abg"/>
+    <file name="slide0018_image065-u37994.png" crc="20917267" ref="8abh"/>
+    <file name="slide0018_image066.gif" crc="220599933" seo="true" ref="8abh"/>
+    <file name="slide0019_image068.gif" crc="4248507156" seo="true" ref="8abh"/>
+    <file name="slide0021_image072-u38064.png" crc="4082647662" ref="8abi"/>
+    <file name="slide0021_image073-u38074.png" crc="4051197159" ref="8abi"/>
+    <file name="slide0021_image074-u38083.png" crc="171290008" ref="8abi"/>
+  </folder>
+  <file name="index.html" crc="469196197" seo="true" mt="1513851212989" redirect="true"/>
+  <file name="8b.html" crc="4087873441" seo="true" mt="1513853859468" redirect="true"/>
+  <file name="8ba.html" crc="191933418" seo="true" mt="1513853947729" redirect="true"/>
+  <file name="8bb.html" crc="333080462" seo="true" mt="1513853991508" redirect="true"/>
+  <file name="8bc.html" crc="373475054" seo="true" mt="1513854014755" redirect="true"/>
+  <file name="8bd.html" crc="145686843" seo="true" mt="1513854032099" redirect="true"/>
+  <file name="8be.html" crc="300306189" seo="true" mt="1513854094104" redirect="true"/>
+  <file name="8bf.html" crc="3929964130" seo="true" mt="1513854118726" redirect="true"/>
+  <file name="8bg.html" crc="4248170528" seo="true" mt="1513854156478" redirect="true"/>
+  <file name="8bh.html" crc="4174458484" seo="true" mt="1513854293460" redirect="true"/>
+  <file name="8bi.html" crc="4230908953" seo="true" mt="1513854327202" redirect="true"/>
+  <file name="8bj.html" crc="390606829" seo="true" mt="1513854425868" redirect="true"/>
+  <file name="8bk.html" crc="182974552" seo="true" mt="1513854507464" redirect="true"/>
+  <file name="8bl.html" crc="41157750" seo="true" mt="1513854527904" redirect="true"/>
+  <file name="8a.html" crc="3829006007" seo="true" mt="1513851225794" redirect="true"/>
+  <file name="8aa.html" crc="263701705" seo="true" mt="1513851329113" redirect="true"/>
+  <file name="3a-sub.html" crc="3789026119" seo="true" mt="1513851343545" redirect="true"/>
+  <file name="4a-sub.html" crc="528947695" seo="true" mt="1513851810361" redirect="true"/>
+  <file name="5a-sub.html" crc="4011871199" seo="true" mt="1513851993671" redirect="true"/>
+  <file name="8aaa.html" crc="290988616" seo="true" mt="1513852859172" redirect="true"/>
+  <file name="8aab.html" crc="3800871668" seo="true" mt="1513852991337" redirect="true"/>
+  <file name="3a-a.html" crc="3851483170" seo="true" mt="1513851553596" redirect="true"/>
+  <file name="3a-b.html" crc="315663727" seo="true" mt="1513851669953" redirect="true"/>
+  <file name="3a-c.html" crc="331885271" seo="true" mt="1513851788679" redirect="true"/>
+  <file name="3a-d.html" crc="147936566" seo="true" redirect="true"/>
+  <file name="4a-a.html" crc="420960382" seo="true" mt="1513851873801" redirect="true"/>
+  <file name="4a-b.html" crc="501034953" seo="true" mt="1513851954941" redirect="true"/>
+  <file name="5a-a.html" crc="4003658365" seo="true" mt="1513852101971" redirect="true"/>
+  <file name="5a-b.html" crc="4007429499" seo="true" mt="1513852173725" redirect="true"/>
+  <file name="5a-c.html" crc="4003573338" seo="true" mt="1513852205573" redirect="true"/>
+  <file name="5a-d.html" crc="159454608" seo="true" mt="1513852508818" redirect="true"/>
+  <file name="5a-e.html" crc="4014232948" seo="true" mt="1513852584099" redirect="true"/>
+  <file name="5a-f.html" crc="4122009092" seo="true" mt="1513852745487" redirect="true"/>
+  <file name="5a-g.html" crc="271159369" seo="true" mt="1513852780226" redirect="true"/>
+  <file name="8ab.html" crc="384611061" seo="true" mt="1513853136089" redirect="true"/>
+  <file name="5aa-sub.html" crc="3939438858" seo="true" mt="1513853232077" redirect="true"/>
+  <file name="8aba.html" crc="4191972829" seo="true" mt="1513853506071" redirect="true"/>
+  <file name="8abb.html" crc="4128949383" seo="true" mt="1513853532785" redirect="true"/>
+  <file name="8abc.html" crc="4171363972" seo="true" mt="1513853562612" redirect="true"/>
+  <file name="8abd.html" crc="43878712" seo="true" mt="1513853594053" redirect="true"/>
+  <file name="8abe.html" crc="138576666" seo="true" mt="1513853667711" redirect="true"/>
+  <file name="5aa-a.html" crc="4087154320" seo="true" mt="1513853370746" redirect="true"/>
+  <file name="5aa-b.html" crc="3897599635" seo="true" mt="1513853400849" redirect="true"/>
+  <file name="5aa-c.html" crc="317888329" seo="true" mt="1513853437461" redirect="true"/>
+  <file name="5aa-d.html" crc="4134235678" seo="true" mt="1513853458035" redirect="true"/>
+  <file name="5aa-e.html" crc="4249575367" seo="true" mt="1513853479090" redirect="true"/>
+  <file name="8abf.html" crc="267889336" seo="true" mt="1513853704341" redirect="true"/>
+  <file name="8abg.html" crc="462061274" seo="true" mt="1513853757780" redirect="true"/>
+  <file name="8abh.html" crc="409984129" seo="true" mt="1513853815514" redirect="true"/>
+  <file name="8abi.html" crc="442911479" seo="true" mt="1513853843078" redirect="true"/>
+</manifest>

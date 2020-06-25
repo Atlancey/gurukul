@@ -1,0 +1,166 @@
+.version._5ah /* version checker */
+{
+	color: #000016;
+	background-color: #6F65E9;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 570px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u18174-6
+{
+	z-index: 2;
+	min-height: 124px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	line-height: 48px;
+	color: #FFFFFF;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u18174-2,#u18174-4
+{
+	padding-left: 16px;
+	padding-top: 9px;
+}
+
+#pu18177-10
+{
+	margin-top: 7px;
+	width: 93.71%;
+	margin-left: 3.15%;
+}
+
+#u18177-10
+{
+	z-index: 8;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	position: relative;
+	margin-right: -10000px;
+	width: 100%;
+}
+
+#u18177-4,#u18177-6
+{
+	font-weight: bold;
+}
+
+#u18180
+{
+	z-index: 18;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 231px;
+	width: 89.64%;
+	left: 5.33%;
+}
+
+#u18189
+{
+	z-index: 20;
+	background-color: transparent;
+	margin-top: 28px;
+	position: relative;
+	width: 84.26%;
+	margin-left: 8.14%;
+}
+
+#u18198
+{
+	z-index: 22;
+	background-color: transparent;
+	margin-top: 17px;
+	position: relative;
+	width: 45.15%;
+	margin-left: 27.3%;
+}
+
+#pu18206
+{
+	margin-top: 20px;
+	width: 93.71%;
+	margin-left: 3.15%;
+}
+
+#u18206
+{
+	z-index: 24;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 251px;
+	width: 71.99%;
+	left: 14.01%;
+}
+
+#u18180_img,#u18189_img,#u18198_img,#u18206_img
+{
+	width: 100%;
+}
+
+#u18227-6
+{
+	z-index: 26;
+	background-color: transparent;
+	line-height: 29px;
+	font-size: 24px;
+	position: relative;
+	margin-right: -10000px;
+	width: 100%;
+}
+
+#u18227-2
+{
+	text-align: left;
+	color: #1976D2;
+	font-weight: bold;
+}
+
+#u18227-4
+{
+	text-align: justify;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

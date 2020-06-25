@@ -1,0 +1,144 @@
+.version._2bc /* version checker */
+{
+	color: #0000F7;
+	background-color: #661B2A;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.746055226824px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	margin-bottom: -45px;
+	padding-top: 12px;
+	width: 100%;
+}
+
+#u9147-4
+{
+	z-index: 2;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u9147-2
+{
+	padding-left: 16px;
+	padding-top: 9px;
+}
+
+#u9152-19
+{
+	z-index: 6;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 32px;
+	position: relative;
+	width: 91.87%;
+	margin-left: 3.94%;
+}
+
+#u9152-8
+{
+	font-weight: bold;
+}
+
+#u9152-5,#u9152-7,#u9152-13,#u9152-15,#u9152-17
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+#u9173
+{
+	z-index: 54;
+	background-color: transparent;
+	margin-top: 21px;
+	position: relative;
+	width: 85.31%;
+	margin-left: 7.35%;
+}
+
+#u9162-27
+{
+	z-index: 27;
+	background-color: transparent;
+	font-weight: normal;
+	margin-top: 22px;
+	position: relative;
+	width: 91.87%;
+	margin-left: 3.94%;
+}
+
+#u9152-14,#u9162
+{
+	text-decoration: underline;
+}
+
+#u9162-2,#u9162-3
+{
+	font-size: 30px;
+	text-align: center;
+	line-height: 36px;
+}
+
+#u9162-5,#u9162-6,#u9162-14,#u9162-16,#u9162-17,#u9162-25
+{
+	font-size: 24px;
+	text-align: left;
+	line-height: 29px;
+}
+
+#u9160
+{
+	z-index: 25;
+	background-color: transparent;
+	margin-top: 111px;
+	position: relative;
+	width: 1.32%;
+	margin-left: 18.12%;
+}
+
+#u9173_img,#u9160_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

@@ -1,0 +1,280 @@
+.version._7aj /* version checker */
+{
+	color: #000003;
+	background-color: #DC5ABD;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 570px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u33948-4
+{
+	z-index: 2;
+	min-height: 116px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u33948-2
+{
+	padding-left: 21px;
+	padding-top: 7px;
+}
+
+#u33949-4
+{
+	z-index: 6;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 44px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 3.15%;
+}
+
+#u33963
+{
+	z-index: 10;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 91.61%;
+	margin-left: 4.2%;
+}
+
+#u33972-4
+{
+	z-index: 12;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 25px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 3.15%;
+}
+
+#u50691
+{
+	z-index: 87;
+	background-color: transparent;
+	margin-top: 27px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.2%;
+}
+
+#u50618
+{
+	z-index: 77;
+	background-color: transparent;
+	margin-top: 26px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.47%;
+}
+
+#u33993
+{
+	z-index: 16;
+	background-color: transparent;
+	margin-top: 24px;
+	position: relative;
+	width: 91.61%;
+	margin-left: 4.2%;
+}
+
+#u50627
+{
+	z-index: 79;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.99%;
+}
+
+#u50636
+{
+	z-index: 81;
+	background-color: transparent;
+	margin-top: 30px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.2%;
+}
+
+#u34018-4
+{
+	z-index: 18;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 29px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 3.42%;
+}
+
+#u34021
+{
+	z-index: 22;
+	background-color: transparent;
+	margin-top: 26px;
+	position: relative;
+	width: 91.61%;
+	margin-left: 4.47%;
+}
+
+#u34030-4
+{
+	z-index: 24;
+	background-color: transparent;
+	text-align: center;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 25px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 3.94%;
+}
+
+#u50645
+{
+	z-index: 83;
+	background-color: transparent;
+	margin-top: 32px;
+	position: relative;
+	width: 91.08%;
+	margin-left: 4.99%;
+}
+
+#u50654
+{
+	z-index: 85;
+	background-color: transparent;
+	margin-top: 19px;
+	position: relative;
+	width: 91.08%;
+	margin-left: 4.47%;
+}
+
+#u34051-4
+{
+	z-index: 28;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 28px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 4.2%;
+}
+
+#u34054
+{
+	z-index: 32;
+	background-color: transparent;
+	margin-top: 55px;
+	position: relative;
+	width: 91.61%;
+	margin-left: 4.73%;
+}
+
+#u34075-4
+{
+	z-index: 36;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 21px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 4.2%;
+}
+
+#u34063
+{
+	z-index: 34;
+	background-color: transparent;
+	margin-top: 53px;
+	position: relative;
+	width: 91.61%;
+	margin-left: 4.47%;
+}
+
+#u33963_img,#u50691_img,#u50618_img,#u33993_img,#u50627_img,#u50636_img,#u34021_img,#u50645_img,#u50654_img,#u34054_img,#u34063_img
+{
+	width: 100%;
+}
+
+#u34078-37
+{
+	z-index: 40;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 30px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 4.2%;
+}
+
+#u34078-4,#u34078-6,#u34078-8,#u34078-18,#u34078-20
+{
+	text-align: justify;
+}
+
+#u34078-12,#u34078-27,#u34078-33,#u34078-35
+{
+	text-align: center;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

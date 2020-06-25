@@ -1,0 +1,149 @@
+.version._8abe /* version checker */
+{
+	color: #0000E0;
+	background-color: #70769C;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.7px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u37562-4
+{
+	z-index: 2;
+	min-height: 81px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	line-height: 48px;
+	color: #FFFFFF;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u37562-2
+{
+	padding-left: 21px;
+	padding-top: 15px;
+}
+
+#u37563-52
+{
+	z-index: 6;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 48px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 3.42%;
+}
+
+#u37563-6,#u37563-16,#u37563-46
+{
+	text-align: justify;
+}
+
+#u37563-12,#u37563-14,#u37563-20,#u37563-22,#u37563-26,#u37563-28,#u37563-34,#u37563-36,#u37563-42,#u37563-44,#u37563-48,#u37563-50
+{
+	text-align: center;
+}
+
+#u37582
+{
+	z-index: 58;
+	display: block;
+	vertical-align: top;
+	margin-top: 17px;
+	position: relative;
+	width: 86.09%;
+	margin-left: 7.09%;
+}
+
+#u37592-4
+{
+	z-index: 60;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: center;
+	line-height: 29px;
+	margin-top: 27px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 3.42%;
+}
+
+#u37601
+{
+	z-index: 64;
+	display: block;
+	vertical-align: top;
+	margin-top: 19px;
+	position: relative;
+	width: 86.09%;
+	margin-left: 7.09%;
+}
+
+#u37610
+{
+	z-index: 66;
+	background-color: transparent;
+	margin-top: 19px;
+	position: relative;
+	width: 78.75%;
+	margin-left: 11.03%;
+}
+
+#u37610_img
+{
+	width: 100%;
+}
+
+#u37620
+{
+	z-index: 68;
+	display: block;
+	vertical-align: top;
+	margin-top: 19px;
+	position: relative;
+	width: 86.09%;
+	margin-left: 7.09%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

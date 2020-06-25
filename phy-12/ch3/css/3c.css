@@ -1,0 +1,251 @@
+.version._3c /* version checker */
+{
+	color: #00000B;
+	background-color: #7F29E1;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 499px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 71px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#u14229-4
+{
+	z-index: 26;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	color: #FFFFFF;
+	font-size: 38px;
+	text-align: left;
+	line-height: 46px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: -15px;
+	width: 106.83%;
+}
+
+#u14229-2
+{
+	padding-right: 16px;
+	padding-left: 16px;
+}
+
+#pu14223-4
+{
+	margin-right: -10000px;
+	margin-top: 299px;
+	width: 94.23%;
+	margin-left: 2.63%;
+}
+
+#u14223-4
+{
+	z-index: 2;
+	min-height: 172px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	position: relative;
+	width: 99.17%;
+}
+
+#u79198-4
+{
+	z-index: 34;
+	min-height: 172px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 25px;
+	position: relative;
+	width: 99.17%;
+	margin-left: 0.84%;
+}
+
+#u14224-4
+{
+	z-index: 6;
+	min-height: 172px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 25px;
+	position: relative;
+	width: 99.17%;
+}
+
+#u14224-2
+{
+	padding-top: 23px;
+}
+
+#u79201-4
+{
+	z-index: 38;
+	min-height: 172px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 25px;
+	position: relative;
+	width: 99.17%;
+}
+
+#u79204-4
+{
+	z-index: 42;
+	min-height: 172px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 25px;
+	position: relative;
+	width: 99.17%;
+}
+
+#u79201-2,#u79204-2
+{
+	padding-top: 50px;
+}
+
+#u14225-4
+{
+	z-index: 10;
+	min-height: 173px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 24px;
+	position: relative;
+	width: 99.17%;
+}
+
+#u14226-4
+{
+	z-index: 14;
+	min-height: 172px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 25px;
+	position: relative;
+	width: 99.17%;
+}
+
+#u14223-2,#u79198-2,#u14225-2,#u14226-2
+{
+	padding-top: 36px;
+}
+
+#u14227-4
+{
+	z-index: 18;
+	min-height: 86px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 29px;
+	margin-top: 25px;
+	position: relative;
+	width: 99.17%;
+}
+
+#u14228-4
+{
+	z-index: 22;
+	min-height: 87px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 25px;
+	position: relative;
+	width: 99.17%;
+}
+
+#u14230-4
+{
+	z-index: 30;
+	min-height: 88px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 25px;
+	position: relative;
+	width: 99.17%;
+}
+
+#u14227-2,#u14228-2,#u14230-2
+{
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

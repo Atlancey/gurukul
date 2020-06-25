@@ -1,0 +1,112 @@
+.version._8abi /* version checker */
+{
+	color: #0000EB;
+	background-color: #3A177A;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.6500000000001px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u38043-4
+{
+	z-index: 2;
+	min-height: 99px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	line-height: 48px;
+	color: #FFFFFF;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u38043-2
+{
+	padding-left: 21px;
+	padding-top: 10px;
+}
+
+#u38042-7
+{
+	z-index: 6;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 46px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 3.15%;
+}
+
+#u38064
+{
+	z-index: 13;
+	display: block;
+	vertical-align: top;
+	margin-top: 25px;
+	position: relative;
+	width: 86.09%;
+	margin-left: 7.09%;
+}
+
+#u38074
+{
+	z-index: 15;
+	display: block;
+	vertical-align: top;
+	margin-top: 16px;
+	position: relative;
+	width: 86.09%;
+	margin-left: 6.83%;
+}
+
+#u38083
+{
+	z-index: 17;
+	display: block;
+	vertical-align: top;
+	margin-top: 25px;
+	position: relative;
+	width: 86.09%;
+	margin-left: 6.83%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

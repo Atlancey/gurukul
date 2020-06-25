@@ -1,0 +1,121 @@
+.version._7ac /* version checker */
+{
+	color: #00000C;
+	background-color: #965DBA;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 499px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 71px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#u31947-4
+{
+	z-index: 2;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: -15px;
+	width: 97.12%;
+}
+
+#u31947-2
+{
+	padding-left: 21px;
+	padding-top: 2px;
+}
+
+#pu31959-13
+{
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 162px;
+	width: 93.71%;
+	margin-left: 3.15%;
+}
+
+#u31959-13
+{
+	z-index: 6;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	position: relative;
+	width: 100%;
+}
+
+#u31959
+{
+	font-weight: bold;
+}
+
+#u31959-2,#u31959-3
+{
+	text-align: center;
+}
+
+#u31959-5,#u31959-6
+{
+	text-align: justify;
+}
+
+#u31959-8,#u31959-9
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+#u31959-11
+{
+	text-align: justify;
+	font-weight: normal;
+}
+
+#u31962
+{
+	z-index: 19;
+	background-color: transparent;
+	margin-top: 21px;
+	position: relative;
+	width: 100%;
+}
+
+#u31962_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

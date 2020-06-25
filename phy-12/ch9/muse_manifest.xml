@@ -1,0 +1,283 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vgpt.atlancey.com" resolutions="1x" timestamp="1515848438211">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="124853790" ref="index"/>
+    <file name="9beb.css" crc="34967397" ref="9beb"/>
+    <file name="9av.css" crc="4102030035" ref="9av"/>
+    <file name="9af.css" crc="262324587" ref="9af"/>
+    <file name="9bfb.css" crc="118783639" ref="9bfb"/>
+    <file name="9bb.css" crc="98128899" ref="9bb"/>
+    <file name="9ae.css" crc="82715678" ref="9ae"/>
+    <file name="9au.css" crc="296770821" ref="9au"/>
+    <file name="9bca.css" crc="4269026312" ref="9bca"/>
+    <file name="9bfa.css" crc="302730927" ref="9bfa"/>
+    <file name="9ad.css" crc="4233996129" ref="9ad"/>
+    <file name="9ba.css" crc="4184219741" ref="9ba"/>
+    <file name="9bdc.css" crc="3868164464" ref="9bdc"/>
+    <file name="9at.css" crc="498468825" ref="9at"/>
+    <file name="9b-c.css" crc="3887352927" ref="9b-c"/>
+    <file name="9ac.css" crc="303303932" ref="9ac"/>
+    <file name="9beg.css" crc="3920587021" ref="9beg"/>
+    <file name="9aab.css" crc="480419616" ref="9aab"/>
+    <file name="transistors-copy-2.css" crc="164436604" ref="transistors-copy-2"/>
+    <file name="9bea.css" crc="279724798" ref="9bea"/>
+    <file name="9as.css" crc="297339911" ref="9as"/>
+    <file name="9bbb.css" crc="61241546" ref="9bbb"/>
+    <file name="9ab.css" crc="3885681798" ref="9ab"/>
+    <file name="9bef.css" crc="4051547982" ref="9bef"/>
+    <file name="9bf-copy.css" crc="432835759" ref="9bf-copy"/>
+    <file name="transistors-copy.css" crc="505978878" ref="transistors-copy"/>
+    <file name="9aa.css" crc="3807056294" ref="9aa"/>
+    <file name="9ar.css" crc="453200404" ref="9ar"/>
+    <file name="9bba.css" crc="175029951" ref="9bba"/>
+    <file name="transistors.css" crc="138661247" ref="transistors"/>
+    <file name="9bdb.css" crc="3979953925" ref="9bdb"/>
+    <file name="9az.css" crc="250172887" ref="9az"/>
+    <file name="9aaa.css" crc="272780444" ref="9aaa"/>
+    <file name="9bda.css" crc="374280871" ref="9bda"/>
+    <file name="9bfd.css" crc="234318249" ref="9bfd"/>
+    <file name="9aq.css" crc="4117978135" ref="9aq"/>
+    <file name="9bf.css" crc="528171058" ref="9bf"/>
+    <file name="9bee.css" crc="106165752" ref="9bee"/>
+    <file name="9ay.css" crc="4088293346" ref="9ay"/>
+    <file name="9b-e.css" crc="163767641" ref="9b-e"/>
+    <file name="9bfc.css" crc="3845965958" ref="9bfc"/>
+    <file name="9al.css" crc="140511122" ref="9al"/>
+    <file name="9be.css" crc="4222884757" ref="9be"/>
+    <file name="9bed.css" crc="4220530126" ref="9bed"/>
+    <file name="9ax.css" crc="3997720814" ref="9ax"/>
+    <file name="9b-d.css" crc="4153475355" ref="9b-d"/>
+    <file name="9ak.css" crc="1458265" ref="9ak"/>
+    <file name="9bd.css" crc="258258311" ref="9bd"/>
+    <file name="9bec.css" crc="400104867" ref="9bec"/>
+    <file name="9aw.css" crc="489044677" ref="9aw"/>
+    <file name="9bcb.css" crc="471333617" ref="9bcb"/>
+    <file name="9ag.css" crc="84163613" ref="9ag"/>
+    <file name="9bc.css" crc="4124432796" ref="9bc"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:9aa:9ab:9ac:9ad:9ae:9af:9ag:9ak:9al:9aq:9ar:9as:9at:9au:9av:9aw:9ax:9ay:9az:9aaa:9aab:9ba:9bb:9bc:9bd:9be:9bf:9bba:9bbb:9b-c:9bca:9bcb:9b-d:9b-e:9bda:9bdb:9bdc:9bea:9beb:9bec:9bed:9bee:9bef:9beg:9bfa:9bfb:9bfc:9bfd:transistors:9bf-copy:transistors-copy:transistors-copy-2"/>
+    <file name="museutils.js" crc="3790713428" ref="index:9aa:9ab:9ac:9ad:9ae:9af:9ag:9ak:9al:9aq:9ar:9as:9at:9au:9av:9aw:9ax:9ay:9az:9aaa:9aab:9ba:9bb:9bc:9bd:9be:9bf:9bba:9bbb:9b-c:9bca:9bcb:9b-d:9b-e:9bda:9bdb:9bdc:9bea:9beb:9bec:9bed:9bee:9bef:9beg:9bfa:9bfb:9bfc:9bfd:transistors:9bf-copy:transistors-copy:transistors-copy-2"/>
+    <file name="whatinput.js" crc="84559013" ref="index:9aa:9ab:9ac:9ad:9ae:9af:9ag:9ak:9al:9aq:9ar:9as:9at:9au:9av:9aw:9ax:9ay:9az:9aaa:9aab:9ba:9bb:9bc:9bd:9be:9bf:9bba:9bbb:9b-c:9bca:9bcb:9b-d:9b-e:9bda:9bdb:9bdc:9bea:9beb:9bec:9bed:9bee:9bef:9beg:9bfa:9bfb:9bfc:9bfd:transistors:9bf-copy:transistors-copy:transistors-copy-2"/>
+    <file name="pie.js" crc="3827607177" ref="index:9aa:9ab:9ac:9ad:9ae:9af:9ag:9ak:9al:9aq:9ar:9as:9at:9au:9av:9aw:9ax:9ay:9az:9aaa:9aab:9ba:9bb:9bc:9bd:9be:9bf:9bba:9bbb:9b-c:9bca:9bcb:9b-d:9b-e:9bda:9bdb:9bdc:9bea:9beb:9bec:9bed:9bee:9bef:9beg:9bfa:9bfb:9bfc:9bfd:transistors:9bf-copy:transistors-copy:transistors-copy-2"/>
+  </folder>
+  <folder name="images">
+    <file name="picture4.jpg" crc="4170593874" seo="true" ref="9b-c"/>
+    <file name="picture5.jpg" crc="3763792666" seo="true" ref="9bca"/>
+    <file name="9-54-u78485.png" crc="4036201378" ref="9aa"/>
+    <file name="9-55.jpg" crc="193288942" seo="true" ref="9aa"/>
+    <file name="9-56.jpg" crc="4167729527" seo="true" ref="9aa"/>
+    <file name="9-57.jpg" crc="4057091583" seo="true" ref="9aa"/>
+    <file name="9-58-1.jpg" crc="470364620" seo="true" ref="9aa"/>
+    <file name="9-58-2.jpg" crc="103743705" seo="true" ref="9aa"/>
+    <file name="9-59-1.jpg" crc="309442920" seo="true" ref="9aa"/>
+    <file name="9-59-2.jpg" crc="4019506140" seo="true" ref="9aa"/>
+    <file name="9-18-1.jpg" crc="3814091592" seo="true" ref="9ac"/>
+    <file name="ewetr.jpg" crc="96445180" seo="true" ref="9ac"/>
+    <file name="picture18.jpg" crc="108305036" seo="true" ref="9ac"/>
+    <file name="9-21-1.png" crc="27523283" seo="true" ref="9ad"/>
+    <file name="9-21-2.jpg" crc="4239098666" seo="true" ref="9ad"/>
+    <file name="9-22.jpg" crc="3841014013" seo="true" ref="9ad"/>
+    <file name="9-24-1.gif" crc="441395277" seo="true" ref="9ae"/>
+    <file name="9-24-2.gif" crc="4064684075" seo="true" ref="9ae"/>
+    <file name="9-25-1-u38823.png" crc="37021000" ref="9ae"/>
+    <file name="9-26-1.gif" crc="4091719177" seo="true" ref="9ae"/>
+    <file name="9-26-2.gif" crc="3797347674" seo="true" ref="9ae"/>
+    <file name="9-27-1.gif" crc="475444024" seo="true" ref="9ae"/>
+    <file name="9-27-2-u38870.png" crc="47600113" ref="9ae"/>
+    <file name="9-28-1.gif" crc="3833709130" seo="true" ref="9ae"/>
+    <file name="9-30-1.jpg" crc="3844819349" seo="true" ref="9af"/>
+    <file name="9-30-2.jpg" crc="4037949386" seo="true" ref="9af"/>
+    <file name="9-31-1.gif" crc="3821994752" seo="true" ref="9af"/>
+    <file name="9-31-2.gif" crc="345602032" seo="true" ref="9af"/>
+    <file name="9-32-u38956.png" crc="4059984876" ref="9af"/>
+    <file name="9-34-1.gif" crc="100790525" seo="true" ref="9ag"/>
+    <file name="9-34-2.jpg" crc="527073302" seo="true" ref="9ag"/>
+    <file name="9-35-1.jpg" crc="301983850" seo="true" ref="9ag"/>
+    <file name="9-35-2.jpg" crc="260974916" seo="true" ref="9ag"/>
+    <file name="9-36-1.png" crc="153685912" seo="true" ref="9ag"/>
+    <file name="9-36-2.gif" crc="3765572582" seo="true" ref="9ag"/>
+    <file name="9-37-1.jpg" crc="459563682" seo="true" ref="9ag"/>
+    <file name="9-37-2.gif" crc="130521972" seo="true" ref="9ag"/>
+    <file name="9-38.png" crc="3998725274" seo="true" ref="9ag"/>
+    <file name="9-39.gif" crc="513364319" seo="true" ref="9ag"/>
+    <file name="hvbn.png" crc="3937290234" seo="true" ref="9ak"/>
+    <file name="cvbn.png" crc="4097966471" seo="true" ref="9ak"/>
+    <file name="9-51-1.jpg" crc="4020097112" seo="true" ref="9al"/>
+    <file name="9-51-2-u39416.png" crc="4250127547" ref="9al"/>
+    <file name="9-51-3.jpg" crc="399993566" seo="true" ref="9al"/>
+    <file name="9-51-4.jpg" crc="419617402" seo="true" ref="9al"/>
+    <file name="9-52-1.gif" crc="3801432548" seo="true" ref="9al"/>
+    <file name="9-52-3.gif" crc="3959681178" seo="true" ref="9al"/>
+    <file name="9-52-2.png" crc="4086973899" seo="true" ref="9al"/>
+    <file name="9-60.gif" crc="258846" seo="true" ref="9aq"/>
+    <file name="9-61-1.jpg" crc="146893057" seo="true" ref="9aq"/>
+    <file name="9-61-2.gif" crc="46108796" seo="true" ref="9aq"/>
+    <file name="9-63-1.gif" crc="312376090" seo="true" ref="9aq"/>
+    <file name="9-63-2.jpg" crc="361523738" seo="true" ref="9aq"/>
+    <file name="asdfgh-u77723.png" crc="410074709" ref="9ar"/>
+    <file name="9-65.jpg" crc="150941535" seo="true" ref="9ar"/>
+    <file name="9-66-2-u40047.png" crc="186715346" ref="9ar"/>
+    <file name="9-66-4.jpg" crc="3895512096" seo="true" ref="9ar"/>
+    <file name="9-68-1.jpg" crc="518580208" seo="true" ref="9as"/>
+    <file name="screenshot (91).jpg" crc="103711662" seo="true" ref="9as"/>
+    <file name="9-70-1.gif" crc="526573636" seo="true" ref="9at"/>
+    <file name="9-70-2.jpg" crc="4085265508" seo="true" ref="9at"/>
+    <file name="9-72-1.jpg" crc="4247614734" seo="true" ref="9at"/>
+    <file name="9-72-2.gif" crc="3836135963" seo="true" ref="9at"/>
+    <file name="9-73-1.gif" crc="4007497632" seo="true" ref="9at"/>
+    <file name="9-73-2.gif" crc="342094973" seo="true" ref="9at"/>
+    <file name="9-74.gif" crc="3823864663" seo="true" ref="9at"/>
+    <file name="9-76.png" crc="3856188911" seo="true" ref="9av"/>
+    <file name="9-77-1.gif" crc="4015577370" seo="true" ref="9av"/>
+    <file name="9-77-2.gif" crc="4001163981" seo="true" ref="9av"/>
+    <file name="9-78.gif" crc="4146322941" seo="true" ref="9aw"/>
+    <file name="9-79-1.gif" crc="4117108351" seo="true" ref="9aw"/>
+    <file name="9-79-2.gif" crc="4085864598" seo="true" ref="9aw"/>
+    <file name="9-80.gif" crc="4283459273" seo="true" ref="9aw"/>
+    <file name="9-81.gif" crc="42865898" seo="true" ref="9ax"/>
+    <file name="9-82.gif" crc="4157428579" seo="true" ref="9ay"/>
+    <file name="asdfg-u77532.png" crc="4245244619" ref="9az"/>
+    <file name="9-85.jpg" crc="3889411515" seo="true" ref="9aaa"/>
+    <file name="wertyui-u77542.png" crc="4182790974" ref="9aab"/>
+    <file name="qasdrftgyhugfds.jpg" crc="378601561" seo="true" ref="9aab"/>
+    <file name="image41.gif" crc="212504061" seo="true" ref="9ba"/>
+    <file name="picture3.jpg" crc="473298324" seo="true" ref="9bba"/>
+    <file name="slide0011_image015.jpg" crc="88722746" seo="true" ref="9bba"/>
+    <file name="slide0012_image019.jpg" crc="3939467738" seo="true" ref="9bbb"/>
+    <file name="slide0012_image021-u41107.png" crc="177368781" ref="9bbb"/>
+    <file name="slide0012_image023-u41117.png" crc="3790279445" ref="9bbb"/>
+    <file name="slide0013_image026.jpg" crc="289460657" seo="true" ref="9bbb"/>
+    <file name="slide0014_image029.jpg" crc="461722904" seo="true" ref="9bbb"/>
+    <file name="slide0015_image033.gif" crc="496427582" seo="true" ref="9b-c"/>
+    <file name="ezgifcom-gif-maker (2).gif" crc="402547932" seo="true" ref="9b-c"/>
+    <file name="slide0016_image038.gif" crc="4047704105" seo="true" ref="9b-c"/>
+    <file name="picture6.jpg" crc="3799223605" seo="true" ref="9bca"/>
+    <file name="slide0018_image046.gif" crc="251822396" seo="true" ref="9bca"/>
+    <file name="slide0020_image051.gif" crc="116839573" seo="true" ref="9bcb"/>
+    <file name="image018.gif" crc="339860132" seo="true" ref="9bcb"/>
+    <file name="slide0020_image053.gif" crc="4167581543" seo="true" ref="9b-d"/>
+    <file name="picture7.jpg" crc="303757157" seo="true" ref="9b-e"/>
+    <file name="picture8.jpg" crc="442549445" seo="true" ref="9b-e"/>
+    <file name="slide0022_image061.png" crc="482139743" seo="true" ref="9b-e"/>
+    <file name="image22.gif" crc="397297185" seo="true" ref="9bda"/>
+    <file name="picture9.jpg" crc="3940947536" seo="true" ref="9bdb"/>
+    <file name="picture10.jpg" crc="388101333" seo="true" ref="9bdb"/>
+    <file name="picture11-u77277.png" crc="131980183" ref="9bdb"/>
+    <file name="picture12-u77267.png" crc="134828465" ref="9bdb"/>
+    <file name="slide0027_image078.gif" crc="3983179484" seo="true" ref="9bdb"/>
+    <file name="picture13.jpg" crc="333188829" seo="true" ref="9bdb"/>
+    <file name="slide0028_image083.jpg" crc="271971924" seo="true" ref="9bdc"/>
+    <file name="slide0029_image085.jpg" crc="3856326505" seo="true" ref="9bdc"/>
+    <file name="picture15.jpg" crc="167857997" seo="true" ref="9bdc"/>
+    <file name="picture14-u77324.png" crc="3862703705" ref="9bdc"/>
+    <file name="image32.gif" crc="3967392656" seo="true" ref="9bdc"/>
+    <file name="image33.gif" crc="37454264" seo="true" ref="9bdc"/>
+    <file name="slide0031_image095.jpg" crc="4276718330" seo="true" ref="9bea"/>
+    <file name="slide0031_image097.jpg" crc="3938765885" seo="true" ref="9bea"/>
+    <file name="slide0032_image100-u41787.png" crc="228305881" ref="9bea"/>
+    <file name="image42.gif" crc="3778460562" seo="true" ref="9bea"/>
+    <file name="slide0033_image105.jpg" crc="4076920135" seo="true" ref="9beb"/>
+    <file name="image43.gif" crc="267080748" seo="true" ref="9beb"/>
+    <file name="slide0034_image110.gif" crc="216441135" seo="true" ref="9beb"/>
+    <file name="slide0034_image111.jpg" crc="312054533" seo="true" ref="9beb"/>
+    <file name="slide0034_image113.jpg" crc="231418214" seo="true" ref="9beb"/>
+    <file name="slide0035_image116.gif" crc="256390760" seo="true" ref="9beb"/>
+    <file name="slide0036_image120.gif" crc="78029505" seo="true" ref="9bec"/>
+    <file name="slide0037_image123.jpg" crc="417993107" seo="true" ref="9bed"/>
+    <file name="slide0037_image125-crop-u42012.jpg" crc="4230806291" ref="9bed"/>
+    <file name="slide0038_image128.jpg" crc="3775545587" seo="true" ref="9bed"/>
+    <file name="slide0038_image130.jpg" crc="37540940" seo="true" ref="9bed"/>
+    <file name="slide0038_image132.gif" crc="3975638242" seo="true" ref="9bed"/>
+    <file name="image44.gif" crc="3864814807" seo="true" ref="9bed"/>
+    <file name="slide0039_image136.gif" crc="4146887654" seo="true" ref="9bed"/>
+    <file name="picture16.jpg" crc="3821031760" seo="true" ref="9bee"/>
+    <file name="slide0041_image146.jpg" crc="61657992" seo="true" ref="9bee"/>
+    <file name="slide0042_image149.gif" crc="3997398196" seo="true" ref="9bee"/>
+    <file name="slide0042_image150.gif" crc="470626937" seo="true" ref="9bee"/>
+    <file name="slide0043_image155.jpg" crc="77257302" seo="true" ref="9bef"/>
+    <file name="slide0043_image157.gif" crc="423179137" seo="true" ref="9bef"/>
+    <file name="slide0044_image160.gif" crc="277482474" seo="true" ref="9beg"/>
+    <file name="slide0045_image162.jpg" crc="3865218424" seo="true" ref="9beg"/>
+    <file name="slide0045_image164.gif" crc="3822496323" seo="true" ref="9beg"/>
+    <file name="image45.gif" crc="307523478" seo="true" ref="9bfb"/>
+    <file name="slide0048_image171.jpg" crc="276484208" seo="true" ref="9bfb"/>
+    <file name="slide0048_image173.jpg" crc="81121989" seo="true" ref="9bfb"/>
+    <file name="slide0048_image175.gif" crc="225763010" seo="true" ref="9bfb"/>
+    <file name="slide0048_image176.jpg" crc="350355969" seo="true" ref="9bfb"/>
+    <file name="slide0049_image180.jpg" crc="4168672248" seo="true" ref="9bfc"/>
+    <file name="slide0050_image183.jpg" crc="3843217991" seo="true" ref="9bfc"/>
+    <file name="slide0050_image185.jpg" crc="36728516" seo="true" ref="9bfc"/>
+    <file name="slide0050_image187.gif" crc="3920163918" seo="true" ref="9bfc"/>
+    <file name="slide0051_image189.gif" crc="3809998569" seo="true" ref="9bfc"/>
+    <file name="image75.gif" crc="451790578" seo="true" ref="9bfc"/>
+    <file name="slide0052_image193.jpg" crc="489640598" seo="true" ref="9bfd"/>
+    <file name="slide0052_image195.jpg" crc="3919145407" seo="true" ref="9bfd"/>
+    <file name="slide0053_image198.jpg" crc="279966922" seo="true" ref="9bfd"/>
+    <file name="9-40.jpg" crc="364397074" seo="true" ref="transistors-copy"/>
+    <file name="9-42-1-u78172.png" crc="275159018" ref="transistors-copy"/>
+    <file name="9-42-2-u78174.png" crc="3922091955" ref="transistors-copy"/>
+    <file name="9-43-1-u78176.png" crc="324847351" ref="transistors-copy"/>
+    <file name="9-43-2-u78178.png" crc="175490964" ref="transistors-copy"/>
+    <file name="9-45-1.jpg" crc="4149035924" seo="true" ref="transistors-copy"/>
+    <file name="9-45-2.jpg" crc="4152415685" seo="true" ref="transistors-copy"/>
+    <file name="9-46.jpg" crc="3875160568" seo="true" ref="transistors-copy"/>
+    <file name="9-47-1.png" crc="3906323105" seo="true" ref="transistors-copy"/>
+    <file name="9-47-2.jpg" crc="316608547" seo="true" ref="transistors-copy"/>
+    <file name="9-48.png" crc="4216208166" seo="true" ref="transistors-copy"/>
+    <file name="9-66-1-u40034.png" crc="3950647536" ref="9ar"/>
+  </folder>
+  <file name="index.html" crc="4063448230" seo="true" mt="1513433864821" redirect="true"/>
+  <file name="9aa.html" crc="74149839" seo="true" mt="1515848078651" redirect="true"/>
+  <file name="9ab.html" crc="4000866513" seo="true" mt="1513433896594" redirect="true"/>
+  <file name="9ac.html" crc="65297122" seo="true" mt="1513430105005" redirect="true"/>
+  <file name="9ad.html" crc="4090379502" seo="true" mt="1513430183332" redirect="true"/>
+  <file name="9ae.html" crc="324138559" seo="true" mt="1513430305987" redirect="true"/>
+  <file name="9af.html" crc="106402622" seo="true" mt="1513431392235" redirect="true"/>
+  <file name="9ag.html" crc="3866402637" seo="true" mt="1513430472338" redirect="true"/>
+  <file name="9ak.html" crc="4135308498" seo="true" mt="1513430710002" redirect="true"/>
+  <file name="9al.html" crc="4030666087" seo="true" mt="1515848049173" redirect="true"/>
+  <file name="9aq.html" crc="3782673818" seo="true" mt="1513431856098" redirect="true"/>
+  <file name="9ar.html" crc="4114805673" seo="true" mt="1515848213665" redirect="true"/>
+  <file name="9as.html" crc="317797751" seo="true" mt="1513431618753" redirect="true"/>
+  <file name="9at.html" crc="4177868102" seo="true" mt="1513431744546" redirect="true"/>
+  <file name="9au.html" crc="180079863" seo="true" mt="1513431856213" redirect="true"/>
+  <file name="9av.html" crc="39743446" seo="true" mt="1513418566681" redirect="true"/>
+  <file name="9aw.html" crc="348371654" seo="true" mt="1513418583297" redirect="true"/>
+  <file name="9ax.html" crc="3905965297" seo="true" mt="1512843085896" redirect="true"/>
+  <file name="9ay.html" crc="4048342498" seo="true" mt="1512843114863" redirect="true"/>
+  <file name="9az.html" crc="434760102" seo="true" mt="1513418625676" redirect="true"/>
+  <file name="9aaa.html" crc="3967403594" seo="true" mt="1512843365775" redirect="true"/>
+  <file name="9aab.html" crc="4247490610" seo="true" mt="1512843558090" redirect="true"/>
+  <file name="9ba.html" crc="3895207165" seo="true" mt="1513425815067" redirect="true"/>
+  <file name="9bb.html" crc="138133649" seo="true" mt="1513426742008" redirect="true"/>
+  <file name="9bc.html" crc="483194289" seo="true" mt="1513416796336" redirect="true"/>
+  <file name="9bd.html" crc="3972777787" seo="true" mt="1512829927416" redirect="true"/>
+  <file name="9be.html" crc="4266296145" seo="true" mt="1513428471423" redirect="true"/>
+  <file name="9bf.html" crc="3764557198" seo="true" mt="1513429530945" redirect="true"/>
+  <file name="9bba.html" crc="4278621452" seo="true" mt="1513431827548" redirect="true"/>
+  <file name="9bbb.html" crc="165836407" seo="true" mt="1515847639346" redirect="true"/>
+  <file name="9b-c.html" crc="431957236" seo="true" mt="1513427910428" redirect="true"/>
+  <file name="9bca.html" crc="451497329" seo="true" mt="1515847661772" redirect="true"/>
+  <file name="9bcb.html" crc="515100707" seo="true" mt="1513416857057" redirect="true"/>
+  <file name="9b-d.html" crc="3876067387" seo="true" mt="1513416910390" redirect="true"/>
+  <file name="9b-e.html" crc="3927613478" seo="true" mt="1513416948405" redirect="true"/>
+  <file name="9bda.html" crc="302637075" seo="true" mt="1513431855556" redirect="true"/>
+  <file name="9bdb.html" crc="509971297" seo="true" mt="1513428097769" redirect="true"/>
+  <file name="9bdc.html" crc="35104474" seo="true" mt="1513428369821" redirect="true"/>
+  <file name="9bea.html" crc="4171360597" seo="true" mt="1513428523243" redirect="true"/>
+  <file name="9beb.html" crc="3425496" seo="true" mt="1513431827788" redirect="true"/>
+  <file name="9bec.html" crc="3867993108" seo="true" mt="1513428824725" redirect="true"/>
+  <file name="9bed.html" crc="4110239211" seo="true" mt="1515847858448" redirect="true"/>
+  <file name="9bee.html" crc="3896667402" seo="true" mt="1515847908782" redirect="true"/>
+  <file name="9bef.html" crc="3949598350" seo="true" mt="1513429169435" redirect="true"/>
+  <file name="9beg.html" crc="3934711801" seo="true" mt="1513429530912" redirect="true"/>
+  <file name="9bfa.html" crc="4214861041" seo="true" mt="1513431827890" redirect="true"/>
+  <file name="9bfb.html" crc="3799727368" seo="true" mt="1513431827912" redirect="true"/>
+  <file name="9bfc.html" crc="3950088899" seo="true" mt="1513431827946" redirect="true"/>
+  <file name="9bfd.html" crc="447831425" seo="true" mt="1513417531706" redirect="true"/>
+  <file name="transistors.html" crc="331598198" seo="true" mt="1513433478873" redirect="true"/>
+  <file name="9bf-copy.html" crc="3876995617" seo="true" mt="1513418995668" redirect="true"/>
+  <file name="transistors-copy.html" crc="46622889" seo="true" mt="1513432780179" redirect="true"/>
+  <file name="transistors-copy-2.html" crc="517882998" seo="true" mt="1513433831449" redirect="true"/>
+</manifest>

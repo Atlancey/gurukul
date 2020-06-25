@@ -1,0 +1,165 @@
+.version._3bb /* version checker */
+{
+	color: #00001B;
+	background-color: #34D6B9;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 570px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u12467-4
+{
+	z-index: 2;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u12467-2
+{
+	padding-left: 21px;
+	padding-top: 2px;
+}
+
+#u12470-46
+{
+	z-index: 6;
+	min-height: 1050px;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 50px;
+	position: relative;
+	width: 91.34%;
+	margin-left: 4.47%;
+}
+
+#u12470-4,#u12470-9,#u12470-14,#u12470-24,#u12470-26,#u12470-27,#u12470-28
+{
+	font-weight: bold;
+}
+
+#u12470-33,#u12470-35,#u12470-40,#u12470-42
+{
+	color: #1976D2;
+	font-weight: bold;
+}
+
+#u12473
+{
+	z-index: 52;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 82.16%;
+	margin-left: 8.93%;
+}
+
+#u78341-4
+{
+	z-index: 54;
+	background-color: transparent;
+	font-size: 26px;
+	color: #1976D2;
+	line-height: 31px;
+	margin-top: 24px;
+	position: relative;
+	width: 91.34%;
+	margin-left: 4.47%;
+}
+
+#pu78344
+{
+	margin-top: 25px;
+	width: 98.17%;
+	margin-left: 0.79%;
+}
+
+#u78344
+{
+	z-index: 58;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 32.63%;
+}
+
+#u78346
+{
+	z-index: 60;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 32.63%;
+	left: 33.96%;
+}
+
+#u78348
+{
+	z-index: 62;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 32.63%;
+	left: 67.65%;
+}
+
+#u12473_img,#u78344_img,#u78346_img,#u78348_img
+{
+	width: 100%;
+}
+
+#u78454-4
+{
+	z-index: 64;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 24px;
+	position: relative;
+	width: 91.34%;
+	margin-left: 4.47%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

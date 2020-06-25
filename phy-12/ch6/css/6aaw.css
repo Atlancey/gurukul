@@ -1,0 +1,175 @@
+.version._6aaw /* version checker */
+{
+	color: #0000E0;
+	background-color: #EA911D;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.6938272500006px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 11px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u29240-6
+{
+	z-index: 2;
+	min-height: 113px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	color: #FFFFFF;
+	font-size: 40px;
+	text-align: left;
+	line-height: 48px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u29240-2,#u29240-4
+{
+	padding-left: 21px;
+	padding-top: 5px;
+}
+
+#u29241-20
+{
+	z-index: 8;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 50px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 2.89%;
+}
+
+#u79823
+{
+	z-index: 48;
+	display: block;
+	vertical-align: top;
+	margin-top: 25px;
+	position: relative;
+	width: 93.18%;
+	margin-left: 2.89%;
+}
+
+#u29254-16
+{
+	z-index: 28;
+	background-color: transparent;
+	color: #000000;
+	line-height: 29px;
+	font-size: 24px;
+	margin-top: 68px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 2.89%;
+}
+
+#u29241-5,#u29241-7,#u29254-2,#u29254-4
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+#u29254-5
+{
+	text-align: left;
+	font-weight: bold;
+}
+
+#u29241-2,#u29241-3,#u29241-9,#u29241-12,#u29241-15,#u29241-17,#u29254-7,#u29254-8,#u29254-10,#u29254-12,#u29254-14
+{
+	text-align: justify;
+}
+
+#pu29293
+{
+	margin-top: 49px;
+	width: 93.44%;
+	margin-left: 2.89%;
+}
+
+#u29293
+{
+	z-index: 44;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 48.88%;
+}
+
+#u29293_img
+{
+	width: 100%;
+}
+
+#u29300
+{
+	z-index: 46;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	width: 45.23%;
+	left: 54.5%;
+}
+
+#u79843
+{
+	z-index: 52;
+	display: block;
+	vertical-align: top;
+	margin-top: 23px;
+	position: relative;
+	width: 91.34%;
+	margin-left: 4.2%;
+}
+
+#u79833
+{
+	z-index: 50;
+	display: block;
+	vertical-align: top;
+	margin-top: 23px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 2.89%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

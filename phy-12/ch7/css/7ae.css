@@ -1,0 +1,281 @@
+.version._7ae /* version checker */
+{
+	color: #0000F5;
+	background-color: #4EE1B8;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 570px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u31953-8
+{
+	z-index: 2;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u31953-2,#u31953-4,#u31953-6
+{
+	padding-left: 21px;
+	padding-top: 2px;
+}
+
+#u32007
+{
+	z-index: 10;
+	background-color: transparent;
+	margin-top: 58px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.63%;
+}
+
+#u32017-6
+{
+	z-index: 12;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 23px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.63%;
+}
+
+#u32020
+{
+	z-index: 18;
+	background-color: transparent;
+	margin-top: 31px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.63%;
+}
+
+#u32030-4
+{
+	z-index: 20;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 23px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.63%;
+}
+
+#u32033
+{
+	z-index: 24;
+	background-color: transparent;
+	margin-top: 23px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.63%;
+}
+
+#u32040
+{
+	z-index: 26;
+	background-color: transparent;
+	margin-top: 33px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.63%;
+}
+
+#u32047
+{
+	z-index: 28;
+	background-color: transparent;
+	margin-top: 32px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.63%;
+}
+
+#u32054
+{
+	z-index: 30;
+	background-color: transparent;
+	margin-top: 33px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.63%;
+}
+
+#u32184
+{
+	z-index: 32;
+	background-color: transparent;
+	margin-top: 33px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.63%;
+}
+
+#u32193-7
+{
+	z-index: 34;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 31px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.63%;
+}
+
+#u32196
+{
+	z-index: 41;
+	background-color: transparent;
+	margin-top: 31px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.63%;
+}
+
+#u32205-4
+{
+	z-index: 43;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 21px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.63%;
+}
+
+#u32208
+{
+	z-index: 47;
+	background-color: transparent;
+	margin-top: 21px;
+	position: relative;
+	width: 95.02%;
+	margin-left: 2.1%;
+}
+
+#u32227-4
+{
+	z-index: 51;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 24px;
+	position: relative;
+	width: 95.02%;
+	margin-left: 2.1%;
+}
+
+#u32215
+{
+	z-index: 49;
+	background-color: transparent;
+	margin-top: 23px;
+	position: relative;
+	width: 95.28%;
+	margin-left: 2.1%;
+}
+
+#u32230-4
+{
+	z-index: 55;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 23px;
+	position: relative;
+	width: 95.02%;
+	margin-left: 2.1%;
+}
+
+#u32233
+{
+	z-index: 59;
+	background-color: transparent;
+	margin-top: 23px;
+	position: relative;
+	width: 95.28%;
+	margin-left: 2.1%;
+}
+
+#u32252-4
+{
+	z-index: 63;
+	background-color: transparent;
+	text-align: justify;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 24px;
+	position: relative;
+	width: 95.02%;
+	margin-left: 2.1%;
+}
+
+#u32241
+{
+	z-index: 61;
+	background-color: transparent;
+	margin-top: 23px;
+	position: relative;
+	width: 95.02%;
+	margin-left: 2.1%;
+}
+
+#u32007_img,#u32020_img,#u32033_img,#u32040_img,#u32047_img,#u32054_img,#u32184_img,#u32196_img,#u32208_img,#u32215_img,#u32233_img,#u32241_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

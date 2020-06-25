@@ -1,0 +1,144 @@
+.version._4bg /* version checker */
+{
+	color: #000000;
+	background-color: #FB159A;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.45px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 1px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u17133-4
+{
+	z-index: 2;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u17133-2
+{
+	padding-left: 16px;
+	padding-top: 9px;
+}
+
+#u17154
+{
+	z-index: 18;
+	background-color: transparent;
+	margin-top: 30px;
+	position: relative;
+	width: 93.44%;
+	margin-left: 3.68%;
+}
+
+#u17136-6
+{
+	z-index: 6;
+	min-height: 52px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 24px;
+	color: #000000;
+	line-height: 29px;
+	font-weight: bold;
+	margin-top: 25px;
+	position: relative;
+	width: 92.39%;
+	margin-left: 3.68%;
+}
+
+#u17164
+{
+	z-index: 20;
+	display: block;
+	vertical-align: top;
+	margin-top: 26px;
+	position: relative;
+	width: 85.31%;
+	margin-left: 7.35%;
+}
+
+#u17174
+{
+	z-index: 22;
+	background-color: transparent;
+	margin-top: 28px;
+	position: relative;
+	width: 92.39%;
+	margin-left: 3.94%;
+}
+
+#u17145-6
+{
+	z-index: 12;
+	min-height: 52px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 24px;
+	color: #000000;
+	line-height: 29px;
+	font-weight: bold;
+	margin-top: 25px;
+	position: relative;
+	width: 92.39%;
+	margin-left: 3.94%;
+}
+
+#u77722
+{
+	z-index: 24;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 91.08%;
+	margin-left: 3.94%;
+}
+
+#u17154_img,#u17174_img,#u77722_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

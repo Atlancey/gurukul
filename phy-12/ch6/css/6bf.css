@@ -1,0 +1,142 @@
+.version._6bf /* version checker */
+{
+	color: #00000D;
+	background-color: #7C69B8;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.7250000000001px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u20717-4
+{
+	z-index: 2;
+	min-height: 82px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	color: #FFFFFF;
+	font-size: 40px;
+	text-align: left;
+	line-height: 48px;
+}
+
+#u20717-2
+{
+	padding-left: 16px;
+	padding-top: 13px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u20717-4-bw
+{
+	z-index: 2;
+	min-height: 82px;
+}
+
+#u20720-4
+{
+	z-index: 6;
+	min-height: 173px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 38px;
+	text-align: center;
+	line-height: 46px;
+	margin-top: 29px;
+	position: relative;
+	width: 93.71%;
+	margin-left: 3.15%;
+}
+
+#u20721-4
+{
+	z-index: 10;
+	min-height: 173px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 38px;
+	text-align: center;
+	line-height: 38px;
+	margin-top: 20px;
+	position: relative;
+	width: 93.71%;
+	margin-left: 3.15%;
+}
+
+#u20720-2,#u20721-2
+{
+	padding-top: 42px;
+}
+
+#u20722-4
+{
+	z-index: 14;
+	min-height: 87px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 38px;
+	text-align: center;
+	line-height: 46px;
+	margin-top: 20px;
+	position: relative;
+	width: 93.71%;
+	margin-left: 3.15%;
+}
+
+#u20722-2
+{
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

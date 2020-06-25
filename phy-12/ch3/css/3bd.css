@@ -1,0 +1,290 @@
+.version._3bd /* version checker */
+{
+	color: #00000A;
+	background-color: #CB50C9;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 570px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u12566-4
+{
+	z-index: 2;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u12566-2
+{
+	padding-left: 16px;
+	padding-top: 9px;
+}
+
+#u12569-12
+{
+	z-index: 6;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 27px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 3.68%;
+}
+
+#u78158
+{
+	z-index: 50;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 89.77%;
+	margin-left: 4.99%;
+}
+
+#u12591
+{
+	z-index: 20;
+	background-color: transparent;
+	margin-top: 14px;
+	position: relative;
+	width: 34.39%;
+	margin-left: 32.81%;
+}
+
+#u12582
+{
+	z-index: 18;
+	background-color: transparent;
+	margin-top: 5px;
+	position: relative;
+	width: 53.29%;
+	margin-left: 23.36%;
+}
+
+#u12598
+{
+	z-index: 22;
+	background-color: transparent;
+	margin-top: 5px;
+	position: relative;
+	width: 29.14%;
+	margin-left: 35.44%;
+}
+
+#u12609-6
+{
+	z-index: 24;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 25px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 3.94%;
+}
+
+#u12612
+{
+	z-index: 30;
+	background-color: transparent;
+	margin-top: 16px;
+	position: relative;
+	width: 45.94%;
+	margin-left: 27.04%;
+}
+
+#u12619
+{
+	z-index: 32;
+	background-color: transparent;
+	margin-top: 9px;
+	position: relative;
+	width: 45.67%;
+	margin-left: 27.3%;
+}
+
+#u12630
+{
+	z-index: 34;
+	background-color: transparent;
+	margin-top: 22px;
+	position: relative;
+	width: 92.92%;
+	margin-left: 3.42%;
+}
+
+#u12640
+{
+	z-index: 36;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 83.99%;
+	margin-left: 7.62%;
+}
+
+#u12658-4
+{
+	z-index: 40;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 25px;
+	position: relative;
+	width: 93.44%;
+	margin-left: 2.89%;
+}
+
+#u12647
+{
+	z-index: 38;
+	background-color: transparent;
+	margin-top: 26px;
+	position: relative;
+	width: 83.99%;
+	margin-left: 7.35%;
+}
+
+#u12661-4
+{
+	z-index: 44;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 24px;
+	position: relative;
+	width: 93.44%;
+	margin-left: 2.89%;
+}
+
+#u12664
+{
+	z-index: 48;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 83.99%;
+	margin-left: 7.35%;
+}
+
+#u78171-9
+{
+	z-index: 52;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 25px;
+	position: relative;
+	width: 93.44%;
+	margin-left: 2.89%;
+}
+
+#u12569-2,#u12569-6,#u78171-2,#u78171-4,#u78171-5
+{
+	font-weight: bold;
+}
+
+#u78171-7
+{
+	font-weight: normal;
+}
+
+#u78174
+{
+	z-index: 61;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 82.94%;
+	margin-left: 8.4%;
+}
+
+#u78184
+{
+	z-index: 63;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.2%;
+}
+
+#u78575
+{
+	z-index: 69;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 81.11%;
+	margin-left: 8.4%;
+}
+
+#u78194
+{
+	z-index: 65;
+	background-color: transparent;
+	margin-top: 24px;
+	position: relative;
+	width: 81.11%;
+	margin-left: 8.4%;
+}
+
+#u78196
+{
+	z-index: 67;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 81.11%;
+	margin-left: 8.4%;
+}
+
+#u78158_img,#u12591_img,#u12582_img,#u12598_img,#u12612_img,#u12619_img,#u12630_img,#u12640_img,#u12647_img,#u12664_img,#u78174_img,#u78184_img,#u78575_img,#u78194_img,#u78196_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

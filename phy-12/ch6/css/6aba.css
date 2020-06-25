@@ -1,0 +1,161 @@
+.version._6aba /* version checker */
+{
+	color: #000001;
+	background-color: #500E95;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.7938272500005px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 11px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u29458-5
+{
+	z-index: 2;
+	min-height: 113px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	color: #FFFFFF;
+	font-size: 40px;
+	text-align: left;
+	line-height: 48px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u29458-3
+{
+	padding-left: 21px;
+	padding-top: 15px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u29458
+{
+	line-height: 48px;
+}
+
+#u29458-2
+{
+	font-size: 34px;
+	line-height: 41px;
+}
+
+#u29464-11
+{
+	z-index: 7;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 52px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 3.68%;
+}
+
+#pu29488
+{
+	margin-top: 13px;
+	width: 90.29%;
+	margin-left: 4.99%;
+}
+
+#u29488
+{
+	z-index: 22;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 100%;
+}
+
+#u29468
+{
+	z-index: 23;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	width: 77.91%;
+}
+
+#u29478
+{
+	z-index: 25;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 22.1%;
+	left: 77.91%;
+}
+
+#u29491
+{
+	z-index: 27;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 106px;
+	width: 38.09%;
+	left: 27.62%;
+}
+
+#u29468_img,#u29478_img,#u29491_img
+{
+	width: 100%;
+}
+
+#u29461-4
+{
+	z-index: 18;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 14px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 3.68%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

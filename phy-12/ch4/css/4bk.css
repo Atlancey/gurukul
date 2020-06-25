@@ -1,0 +1,101 @@
+.version._4bk /* version checker */
+{
+	color: #000016;
+	background-color: #D66056;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 570px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u17396-4
+{
+	z-index: 2;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 48px;
+	color: #FFFFFF;
+	line-height: 58px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u17396-2
+{
+	padding-left: 21px;
+	padding-top: 2px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u17396
+{
+	font-size: 40px;
+	line-height: 48px;
+}
+
+#u77742
+{
+	z-index: 10;
+	background-color: transparent;
+	margin-top: 50px;
+	position: relative;
+	width: 96.86%;
+	margin-left: 1.58%;
+}
+
+#u77742_img
+{
+	width: 100%;
+}
+
+#u17425-4
+{
+	z-index: 6;
+	min-height: 64px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 16px;
+	position: relative;
+	width: 89.77%;
+	margin-left: 4.99%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

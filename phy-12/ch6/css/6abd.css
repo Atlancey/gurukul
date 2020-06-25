@@ -1,0 +1,304 @@
+.version._6abd /* version checker */
+{
+	color: #00001C;
+	background-color: #AE8517;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.543827250001px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 11px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u29897-6
+{
+	z-index: 2;
+	min-height: 164px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	color: #FFFFFF;
+	text-align: left;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u29897-2
+{
+	font-size: 34px;
+	line-height: 41px;
+	padding-left: 21px;
+	padding-top: 5px;
+}
+
+#u29897-4
+{
+	font-size: 40px;
+	line-height: 48px;
+	padding-left: 21px;
+	padding-top: 5px;
+}
+
+#u29907-4
+{
+	z-index: 8;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	text-align: left;
+	line-height: 29px;
+	margin-top: 41px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 3.15%;
+}
+
+#u29933
+{
+	z-index: 19;
+	background-color: transparent;
+	margin-top: 26px;
+	position: relative;
+	width: 88.19%;
+	margin-left: 6.04%;
+}
+
+#u29906-7
+{
+	z-index: 12;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 24px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 4.47%;
+}
+
+#u29906-2,#u29906-3
+{
+	text-align: left;
+}
+
+#u29943
+{
+	z-index: 21;
+	background-color: transparent;
+	margin-top: 23px;
+	position: relative;
+	width: 48.82%;
+	margin-left: 25.46%;
+}
+
+#u29951
+{
+	z-index: 23;
+	background-color: transparent;
+	margin-top: 24px;
+	position: relative;
+	width: 27.56%;
+	margin-left: 37.8%;
+}
+
+#u29963-6
+{
+	z-index: 25;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	text-align: left;
+	line-height: 29px;
+	margin-top: 24px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 2.89%;
+}
+
+#u29966
+{
+	z-index: 31;
+	background-color: transparent;
+	margin-top: 24px;
+	position: relative;
+	width: 74.28%;
+	margin-left: 14.7%;
+}
+
+#u29976-6
+{
+	z-index: 33;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	text-align: left;
+	line-height: 29px;
+	margin-top: 24px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 2.89%;
+}
+
+#u29979
+{
+	z-index: 39;
+	background-color: transparent;
+	margin-top: 11px;
+	position: relative;
+	width: 85.83%;
+	margin-left: 8.4%;
+}
+
+#u29989-16
+{
+	z-index: 41;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 22px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 2.89%;
+}
+
+#u79916
+{
+	z-index: 86;
+	background-color: transparent;
+	margin-top: 17px;
+	position: relative;
+	width: 47.77%;
+	margin-left: 25.99%;
+}
+
+#u30002-8
+{
+	z-index: 57;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 18px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 2.89%;
+}
+
+#u29906-5,#u29989-2,#u29989-4,#u29989-6,#u30002-2,#u30002-4
+{
+	text-align: center;
+}
+
+#u29989-10,#u29989-14,#u30002-6
+{
+	text-align: justify;
+}
+
+#u30005
+{
+	z-index: 65;
+	background-color: transparent;
+	margin-top: 24px;
+	position: relative;
+	width: 75.07%;
+	margin-left: 12.34%;
+}
+
+#u30013
+{
+	z-index: 67;
+	background-color: transparent;
+	margin-top: 24px;
+	position: relative;
+	width: 80.32%;
+	margin-left: 9.72%;
+}
+
+#u30025-4
+{
+	z-index: 69;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	text-align: center;
+	line-height: 29px;
+	margin-top: 24px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 4.2%;
+}
+
+#u79926
+{
+	z-index: 88;
+	background-color: transparent;
+	margin-top: 80px;
+	position: relative;
+	width: 63.78%;
+	margin-left: 19.17%;
+}
+
+#u30038-11
+{
+	z-index: 73;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	text-align: left;
+	line-height: 29px;
+	margin-top: 22px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 2.89%;
+}
+
+#u30041
+{
+	z-index: 84;
+	background-color: transparent;
+	margin-top: 19px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.47%;
+}
+
+#u29933_img,#u29943_img,#u29951_img,#u29966_img,#u29979_img,#u79916_img,#u30005_img,#u30013_img,#u79926_img,#u30041_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

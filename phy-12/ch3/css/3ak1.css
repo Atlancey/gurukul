@@ -1,0 +1,154 @@
+.version._3ak1 /* version checker */
+{
+	color: #0000FD;
+	background-color: #08AAFF;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.8500000000001px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 10px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u77880-6
+{
+	z-index: 2;
+	min-height: 97px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: left;
+	line-height: 43px;
+}
+
+#u77880-2
+{
+	padding-left: 17px;
+	padding-top: 11px;
+}
+
+#u77880-4
+{
+	padding-left: 16px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u77880-6-bw
+{
+	z-index: 2;
+	min-height: 97px;
+}
+
+#u77881-4
+{
+	z-index: 8;
+	min-height: 173px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 29px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.47%;
+}
+
+#u77881-2
+{
+	padding-bottom: 10px;
+	padding-top: 27px;
+}
+
+#u78663-4
+{
+	z-index: 16;
+	min-height: 173px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 38px;
+	text-align: center;
+	line-height: 46px;
+	margin-top: 25px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.47%;
+}
+
+#u78663-2
+{
+	padding-bottom: 15px;
+	padding-top: 23px;
+}
+
+#u77882-4
+{
+	z-index: 12;
+	min-height: 87px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 26px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.47%;
+}
+
+#u77882-2
+{
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

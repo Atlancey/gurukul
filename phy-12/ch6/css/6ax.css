@@ -1,0 +1,148 @@
+.version._6ax /* version checker */
+{
+	color: #0000F5;
+	background-color: #9AA404;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.7271605833339px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 11px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u27391-4
+{
+	z-index: 2;
+	min-height: 86px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	color: #FFFFFF;
+	font-size: 48px;
+	text-align: left;
+	line-height: 58px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u27391-2
+{
+	padding-left: 22px;
+	padding-top: 9px;
+}
+
+#u27557
+{
+	z-index: 6;
+	display: block;
+	vertical-align: top;
+	margin-top: 27px;
+	position: relative;
+	width: 90.29%;
+	margin-left: 4.73%;
+}
+
+#u27565
+{
+	z-index: 8;
+	background-color: transparent;
+	margin-top: 17px;
+	position: relative;
+	width: 91.34%;
+	margin-left: 4.73%;
+}
+
+#u27572
+{
+	z-index: 10;
+	background-color: transparent;
+	margin-top: 15px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 5.52%;
+}
+
+#u27588-4
+{
+	z-index: 12;
+	background-color: transparent;
+	color: #000000;
+	line-height: 29px;
+	font-size: 24px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 32px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 2.89%;
+}
+
+#u27591
+{
+	z-index: 16;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 92.92%;
+	margin-left: 4.73%;
+}
+
+#u27599
+{
+	z-index: 18;
+	background-color: transparent;
+	margin-top: 21px;
+	position: relative;
+	width: 92.39%;
+	margin-left: 4.73%;
+}
+
+#u27606
+{
+	z-index: 20;
+	background-color: transparent;
+	margin-top: 21px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 4.73%;
+}
+
+#u27565_img,#u27572_img,#u27591_img,#u27599_img,#u27606_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

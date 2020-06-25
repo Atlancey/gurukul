@@ -1,0 +1,159 @@
+.version._9al /* version checker */
+{
+	color: #000008;
+	background-color: #600792;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 499px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 71px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#u39392-4
+{
+	z-index: 2;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: -15px;
+	width: 97.12%;
+}
+
+#u39392-2
+{
+	padding-left: 21px;
+	padding-top: 7px;
+}
+
+#pu39395-18
+{
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 148px;
+	width: 95.54%;
+	margin-left: 2.37%;
+}
+
+#u39395-18
+{
+	z-index: 6;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	position: relative;
+	width: 99.46%;
+	margin-left: 0.28%;
+}
+
+#u39395-2,#u39395-4,#u39395-6,#u39395-7,#u39395-9,#u39395-11,#u39395-13,#u39395-14
+{
+	font-weight: bold;
+}
+
+#u39408
+{
+	z-index: 24;
+	background-color: transparent;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+	width: 99.46%;
+	margin-left: 0.28%;
+}
+
+#u39416
+{
+	z-index: 26;
+	display: block;
+	vertical-align: top;
+	margin-top: 24px;
+	position: relative;
+	width: 99.46%;
+}
+
+#u39423
+{
+	z-index: 28;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 99.46%;
+}
+
+#u39430
+{
+	z-index: 30;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 100%;
+}
+
+#u39448
+{
+	z-index: 32;
+	background-color: transparent;
+	margin-top: 24px;
+	position: relative;
+	width: 99.46%;
+}
+
+#u39455
+{
+	z-index: 34;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 99.46%;
+}
+
+#u39473
+{
+	z-index: 36;
+	background-color: transparent;
+	margin-top: 24px;
+	position: relative;
+	width: 68.69%;
+	margin-left: 15.39%;
+}
+
+#u39408_img,#u39423_img,#u39430_img,#u39448_img,#u39455_img,#u39473_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

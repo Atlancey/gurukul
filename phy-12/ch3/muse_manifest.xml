@@ -1,0 +1,266 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vgpt.atlancey.com" resolutions="1x" timestamp="1513183157174">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="4292901359" ref="index"/>
+    <file name="3ca.css" crc="430466579" ref="3ca"/>
+    <file name="3bc.css" crc="398973150" ref="3bc"/>
+    <file name="3dm.css" crc="4068637632" ref="3dm"/>
+    <file name="3dl.css" crc="28530697" ref="3dl"/>
+    <file name="3c.css" crc="192883169" ref="3c"/>
+    <file name="3af.css" crc="4267145938" ref="3af"/>
+    <file name="3a.css" crc="349917515" ref="3a"/>
+    <file name="3am.css" crc="3774918993" ref="3am"/>
+    <file name="magnetic-force-on-coil.css" crc="4118277432" ref="magnetic-force-on-coil"/>
+    <file name="3dg.css" crc="4270212763" ref="3dg"/>
+    <file name="3cg.css" crc="113640696" ref="3cg"/>
+    <file name="3cd.css" crc="415078844" ref="3cd"/>
+    <file name="ampere.css" crc="278133515" ref="ampere"/>
+    <file name="velocityselector.css" crc="4105266732" ref="velocityselector"/>
+    <file name="closed-loop.css" crc="4085931602" ref="closed-loop"/>
+    <file name="3bf.css" crc="253473201" ref="3bf"/>
+    <file name="3dk.css" crc="4209859793" ref="3dk"/>
+    <file name="3cf.css" crc="4125866185" ref="3cf"/>
+    <file name="3df.css" crc="3918516263" ref="3df"/>
+    <file name="3bb.css" crc="456447673" ref="3bb"/>
+    <file name="3an.css" crc="299131002" ref="3an"/>
+    <file name="lorentzforce.css" crc="383985819" ref="lorentzforce"/>
+    <file name="3dj.css" crc="68100526" ref="3dj"/>
+    <file name="3b.css" crc="254628657" ref="3b"/>
+    <file name="3ae.css" crc="4245629626" ref="3ae"/>
+    <file name="3al.css" crc="507282162" ref="3al"/>
+    <file name="3ba.css" crc="207999131" ref="3ba"/>
+    <file name="3de.css" crc="4007687317" ref="3de"/>
+    <file name="3ab.css" crc="61118842" ref="3ab"/>
+    <file name="3ak2.css" crc="3875009935" ref="3ak2"/>
+    <file name="3be.css" crc="482804612" ref="3be"/>
+    <file name="application-biot-savart.css" crc="106246556" ref="application-biot-savart"/>
+    <file name="3ad.css" crc="61818287" ref="3ad"/>
+    <file name="biot-savart.css" crc="513701584" ref="biot-savart"/>
+    <file name="3aa.css" crc="526562490" ref="3aa"/>
+    <file name="3ac.css" crc="4034731838" ref="3ac"/>
+    <file name="3ag.css" crc="4131134986" ref="3ag"/>
+    <file name="electron.css" crc="111536938" ref="electron"/>
+    <file name="3cc.css" crc="4236158055" ref="3cc"/>
+    <file name="3ce.css" crc="422352808" ref="3ce"/>
+    <file name="3di.css" crc="3865408605" ref="3di"/>
+    <file name="3cb.css" crc="4109009758" ref="3cb"/>
+    <file name="3d.css" crc="372263036" ref="3d"/>
+    <file name="3dd.css" crc="204208491" ref="3dd"/>
+    <file name="3dh.css" crc="4038670808" ref="3dh"/>
+    <file name="3bd.css" crc="181096649" ref="3bd"/>
+    <file name="3ak1.css" crc="4245203711" ref="3ak1"/>
+    <file name="3dc.css" crc="283715756" ref="3dc"/>
+    <file name="3db.css" crc="4255805617" ref="3db"/>
+    <file name="3ak.css" crc="3891810803" ref="3ak"/>
+    <file name="3da.css" crc="4107670792" ref="3da"/>
+    <file name="3dn.css" crc="4194668959" ref="3dn"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:3b:3c:3d:3ba:3bb:3bc:3bd:3be:3bf:3a:3aa:3ab:3ac:3ad:3ae:3af:3ag:3ak2:3al:3am:3ca:3cb:3cc:3cd:3ce:3cf:3cg:3da:3db:3dc:3dd:3de:3df:3dg:3dh:3di:3dj:3dk:3dl:3dm:3dn:3ak:3ak1:biot-savart:application-biot-savart:lorentzforce:velocityselector:3an:closed-loop:ampere:magnetic-force-on-coil:electron"/>
+    <file name="museutils.js" crc="3790713428" ref="index:3b:3c:3d:3ba:3bb:3bc:3bd:3be:3bf:3a:3aa:3ab:3ac:3ad:3ae:3af:3ag:3ak2:3al:3am:3ca:3cb:3cc:3cd:3ce:3cf:3cg:3da:3db:3dc:3dd:3de:3df:3dg:3dh:3di:3dj:3dk:3dl:3dm:3dn:3ak:3ak1:biot-savart:application-biot-savart:lorentzforce:velocityselector:3an:closed-loop:ampere:magnetic-force-on-coil:electron"/>
+    <file name="whatinput.js" crc="84559013" ref="index:3b:3c:3d:3ba:3bb:3bc:3bd:3be:3bf:3a:3aa:3ab:3ac:3ad:3ae:3af:3ag:3ak2:3al:3am:3ca:3cb:3cc:3cd:3ce:3cf:3cg:3da:3db:3dc:3dd:3de:3df:3dg:3dh:3di:3dj:3dk:3dl:3dm:3dn:3ak:3ak1:biot-savart:application-biot-savart:lorentzforce:velocityselector:3an:closed-loop:ampere:magnetic-force-on-coil:electron"/>
+    <file name="pie.js" crc="3827607177" ref="index:3b:3c:3d:3ba:3bb:3bc:3bd:3be:3bf:3a:3aa:3ab:3ac:3ad:3ae:3af:3ag:3ak2:3al:3am:3ca:3cb:3cc:3cd:3ce:3cf:3cg:3da:3db:3dc:3dd:3de:3df:3dg:3dh:3di:3dj:3dk:3dl:3dm:3dn:3ak:3ak1:biot-savart:application-biot-savart:lorentzforce:velocityselector:3an:closed-loop:ampere:magnetic-force-on-coil:electron"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:3d:3a:3ak:3ak1:biot-savart:application-biot-savart"/>
+  </folder>
+  <folder name="images">
+    <file name="picture1.png" crc="4003906450" seo="true" ref="3ac"/>
+    <file name="picture5.jpg" crc="4060861305" seo="true" ref="3af"/>
+    <file name="picture8.jpg" crc="4133051517" seo="true" ref="electron"/>
+    <file name="picture1.jpg" crc="330778911" seo="true" ref="3bb"/>
+    <file name="3b-17-1.png" crc="351204778" seo="true" ref="3bb"/>
+    <file name="3b-17-2.png" crc="248295439" seo="true" ref="3bb"/>
+    <file name="3b-17-3.png" crc="4103453930" seo="true" ref="3bb"/>
+    <file name="3b-18.png" crc="282537624" seo="true" ref="3bc"/>
+    <file name="image12.png" crc="297144007" seo="true" ref="3bd"/>
+    <file name="3b-20-3.gif" crc="4153283728" seo="true" ref="3bd"/>
+    <file name="3b-20-2.gif" crc="438500181" seo="true" ref="3bd"/>
+    <file name="3b-20-4.gif" crc="3915871376" seo="true" ref="3bd"/>
+    <file name="3b-20-5.gif" crc="430945015" seo="true" ref="3bd"/>
+    <file name="3b-20-6.gif" crc="3924435040" seo="true" ref="3bd"/>
+    <file name="3b-20-7.jpg" crc="4261567894" seo="true" ref="3bd"/>
+    <file name="3b-21-1.gif" crc="4145978450" seo="true" ref="3bd"/>
+    <file name="3b-21-2.gif" crc="66962658" seo="true" ref="3bd"/>
+    <file name="3b-22.gif" crc="4010936289" seo="true" ref="3bd"/>
+    <file name="helical.jpg" crc="507630569" seo="true" ref="3bd"/>
+    <file name="helical2.jpg" crc="3822537009" seo="true" ref="3bd"/>
+    <file name="helical.gif" crc="135393882" seo="true" ref="3bd"/>
+    <file name="3b-24-2.gif" crc="3937187166" seo="true" ref="3bd"/>
+    <file name="3b-24-3.gif" crc="319601004" seo="true" ref="3bd"/>
+    <file name="3b-25-1.gif" crc="174027548" seo="true" ref="3be"/>
+    <file name="3b-25-2.gif" crc="4277020291" seo="true" ref="3be"/>
+    <file name="3b-27.jpg" crc="4157806607" seo="true" ref="3bf"/>
+    <file name="3b-28.png" crc="3811525120" seo="true" ref="3bf"/>
+    <file name="3(a) field due to moving charge.gif" crc="3804341166" seo="true" ref="3aa"/>
+    <file name="3a-16.png" crc="4106352278" seo="true" ref="3aa"/>
+    <file name="3a-18-1.png" crc="444138355" seo="true" ref="3ab"/>
+    <file name="3a-18-2.png" crc="342378446" seo="true" ref="3ab"/>
+    <file name="3(a) oersted experiment magnetic field due to straight conductor.gif" crc="4270444560" seo="true" ref="3ab"/>
+    <file name="3a-18-3.jpg" crc="3794384483" seo="true" ref="3ab"/>
+    <file name="bio.jpg" crc="3946087424" seo="true" ref="3ac"/>
+    <file name="3a-20-1.jpg" crc="4219389392" seo="true" ref="3ac"/>
+    <file name="3a-20-2.jpg" crc="3787747312" seo="true" ref="3ac"/>
+    <file name="3a-20-3.jpg" crc="4221129110" seo="true" ref="3ac"/>
+    <file name="image122.png" crc="527356544" seo="true" ref="3ac"/>
+    <file name="3a-21.jpg" crc="263151968" seo="true" ref="3ac"/>
+    <file name="3a-22.gif" crc="4174708256" seo="true" ref="3ac"/>
+    <file name="hand-crop-u77360.jpg" crc="152065207" ref="3ac"/>
+    <file name="image16.png" crc="392916024" seo="true" ref="3ad"/>
+    <file name="image17-crop-u77512.jpg" crc="99188371" ref="3ad"/>
+    <file name="3(a) magnetic field due to loop biot-savart-s-law.gif" crc="4073629660" seo="true" ref="3ad"/>
+    <file name="ezgifcom-optimize.gif" crc="23192190" seo="true" ref="3ad"/>
+    <file name="3a-25-1.jpg" crc="275688068" seo="true" ref="3ae"/>
+    <file name="image21-u78666.png" crc="339893631" ref="3ae"/>
+    <file name="image22-u78676.png" crc="287675823" ref="3ae"/>
+    <file name="image23-u78686.png" crc="209606129" ref="3ae"/>
+    <file name="picture3.jpg" crc="3990417276" seo="true" ref="3af"/>
+    <file name="image25-u78696.png" crc="389660677" ref="3af"/>
+    <file name="image27-u78706.png" crc="3941470447" ref="3af"/>
+    <file name="image29.jpg" crc="463672226" seo="true" ref="3ag"/>
+    <file name="image30.jpg" crc="477078007" seo="true" ref="3ag"/>
+    <file name="image31-u78742.png" crc="3992641557" ref="3ag"/>
+    <file name="image32-u78752.png" crc="165084641" ref="3ag"/>
+    <file name="3a-28-5.jpg" crc="485665579" seo="true" ref="3ag"/>
+    <file name="3a-28-4.jpg" crc="32469666" seo="true" ref="3ag"/>
+    <file name="3a-28-6.jpg" crc="473882415" seo="true" ref="3ag"/>
+    <file name="3a-28-7.jpg" crc="4224241920" seo="true" ref="3ag"/>
+    <file name="3a-28-8.jpg" crc="4003356614" seo="true" ref="3ag"/>
+    <file name="3a-28-9.jpg" crc="4106932833" seo="true" ref="3ag"/>
+    <file name="image39.png" crc="27810633" seo="true" ref="3ak2"/>
+    <file name="image40.png" crc="261261927" seo="true" ref="3al"/>
+    <file name="image41.png" crc="3964452245" seo="true" ref="3al"/>
+    <file name="image42-crop-u77686.jpg" crc="503933813" ref="3al"/>
+    <file name="image43.jpg" crc="3892116368" seo="true" ref="3al"/>
+    <file name="image48.png" crc="4253078390" seo="true" ref="3am"/>
+    <file name="image49.jpg" crc="4255622048" seo="true" ref="3am"/>
+    <file name="image50.png" crc="212506117" seo="true" ref="3am"/>
+    <file name="ezgifcom-optimize (2).gif" crc="4219510631" seo="true" ref="3am"/>
+    <file name="image2-u79362.png" crc="3987962800" ref="3ca"/>
+    <file name="image5.jpg" crc="304280084" seo="true" ref="3ca"/>
+    <file name="screenshot (31)-crop-u79332.jpg" crc="4248659384" ref="3ca"/>
+    <file name="screenshot (33)-crop-u79342.jpg" crc="3761048331" ref="3ca"/>
+    <file name="screenshot (32)-crop-u79352.jpg" crc="527708539" ref="3ca"/>
+    <file name="3c-16-1.gif" crc="152334125" seo="true" ref="3cb"/>
+    <file name="screenshot (36)-crop-u79392.jpg" crc="222282981" ref="3cb"/>
+    <file name="screenshot (34)-crop-u79372.jpg" crc="3765805519" ref="3cb"/>
+    <file name="screenshot (35)-crop-u79382.jpg" crc="4093557138" ref="3cb"/>
+    <file name="3c-17-1.gif" crc="4077730988" seo="true" ref="3cb"/>
+    <file name="3c-18-1.gif" crc="4056039884" seo="true" ref="3cb"/>
+    <file name="3c-21-1.gif" crc="272265386" seo="true" ref="3cc"/>
+    <file name="image20-crop-u79402.jpg" crc="127364119" ref="3cc"/>
+    <file name="image20-crop-u79412.jpg" crc="116459711" ref="3cc"/>
+    <file name="3c-22-1.png" crc="235673349" seo="true" ref="3cd"/>
+    <file name="image22-crop-u79128.jpg" crc="287184162" ref="3cd"/>
+    <file name="image22-crop-u79121.jpg" crc="3906296109" ref="3cd"/>
+    <file name="image22-crop-u79111.jpg" crc="264321508" ref="3cd"/>
+    <file name="3c-23-3.png" crc="291828379" seo="true" ref="3cd"/>
+    <file name="image24.jpg" crc="3851926211" seo="true" ref="3cd"/>
+    <file name="3c-25-1.jpg" crc="4092122628" seo="true" ref="3cd"/>
+    <file name="image26-crop-u79155.jpg" crc="349529685" ref="3ce"/>
+    <file name="image27-crop-u79145.jpg" crc="531626321" ref="3ce"/>
+    <file name="image28-crop-u79165.jpg" crc="4078771223" ref="3ce"/>
+    <file name="3c-32-1.jpg" crc="220944073" seo="true" ref="3cf"/>
+    <file name="3c-34-1.jpg" crc="73015508" seo="true" ref="3cf"/>
+    <file name="3c-33-1.jpg" crc="3979898602" seo="true" ref="3cg"/>
+    <file name="3c-35-1.jpg" crc="3815476957" seo="true" ref="3cg"/>
+    <file name="3d-16.jpg" crc="4246161045" seo="true" ref="3da:3dc"/>
+    <file name="image3-u80096.png" crc="3922982786" ref="3db"/>
+    <file name="3d-17-2.gif" crc="462115662" seo="true" ref="3db"/>
+    <file name="3d-18-1-u79476.png" crc="4154821466" ref="3db"/>
+    <file name="image9-crop-u79515.jpg" crc="4131694575" ref="3dd"/>
+    <file name="image9-crop-u79525.jpg" crc="4136155135" ref="3dd"/>
+    <file name="image15-u80106.png" crc="182481543" ref="3de"/>
+    <file name="picture9.jpg" crc="4069896587" seo="true" ref="3de"/>
+    <file name="image19-u80116.png" crc="282324565" ref="3de"/>
+    <file name="picture10.jpg" crc="3887361988" seo="true" ref="3de"/>
+    <file name="picture11.jpg" crc="504062943" seo="true" ref="3de"/>
+    <file name="picture12.jpg" crc="4037752549" seo="true" ref="3de"/>
+    <file name="image23.png" crc="4079267322" seo="true" ref="3df"/>
+    <file name="picture13.jpg" crc="309777441" seo="true" ref="3df"/>
+    <file name="image25.png" crc="252086517" seo="true" ref="3dg"/>
+    <file name="image26-u79720.png" crc="229236305" ref="3dh"/>
+    <file name="image27.jpg" crc="3959259298" seo="true" ref="3dh"/>
+    <file name="image28-u79730.png" crc="4010134036" ref="3di"/>
+    <file name="image29.png" crc="454003809" seo="true" ref="3di"/>
+    <file name="image30.png" crc="171434591" seo="true" ref="3di"/>
+    <file name="screenshot (37)-crop-u79760.jpg" crc="255061751" ref="3dj"/>
+    <file name="3d-39-1.png" crc="3864187006" seo="true" ref="3dj"/>
+    <file name="screenshot (38)-crop-u79770.jpg" crc="4232025936" ref="3dj"/>
+    <file name="screenshot (39)-crop-u79780.jpg" crc="382800510" ref="3dj"/>
+    <file name="screenshot (40)-crop-u79790.jpg" crc="245129806" ref="3dj"/>
+    <file name="screenshot (41)-crop-u79800.jpg" crc="438565222" ref="3dj"/>
+    <file name="screenshot (42)-crop-u79810.jpg" crc="529911782" ref="3dj"/>
+    <file name="image38-crop-u79989.jpg" crc="50712133" ref="3dk"/>
+    <file name="image40-crop-u79908.png" crc="388971556" ref="3dl"/>
+    <file name="3d-47-u15883.png" crc="51205805" ref="3dl"/>
+    <file name="3b-26-1.jpg" crc="30993169" seo="true" ref="lorentzforce"/>
+    <file name="3b-26-2.jpg" crc="4116435647" seo="true" ref="velocityselector"/>
+    <file name="image1.gif" crc="373283121" seo="true" ref="velocityselector"/>
+    <file name="image44.png" crc="4006542223" seo="true" ref="3an"/>
+    <file name="ezgifcom-optimize (3).gif" crc="3903107795" seo="true" ref="3an"/>
+    <file name="3(a)if cirrent in coil increases then field strength increases.gif" crc="324144901" seo="true" ref="3an"/>
+    <file name="3(a)if current in coil decreases them field strength drops.gif" crc="3846931793" seo="true" ref="3an"/>
+    <file name="3c-15-2.jpg" crc="4238534449" seo="true" ref="closed-loop"/>
+    <file name="3c-15-3.png" crc="262645419" seo="true" ref="closed-loop"/>
+    <file name="3c-19-1.gif" crc="373414183" seo="true" ref="magnetic-force-on-coil"/>
+    <file name="3c-19-2.gif" crc="4150163089" seo="true" ref="magnetic-force-on-coil"/>
+    <file name="3c-20-1.gif" crc="411677063" seo="true" ref="magnetic-force-on-coil"/>
+    <file name="3c-20-2.gif" crc="226756872" seo="true" ref="magnetic-force-on-coil"/>
+    <file name="3d-22.jpg" crc="4174817490" seo="true" ref="electron"/>
+    <file name="picture4.jpg" crc="3888691643" seo="true" ref="electron"/>
+    <file name="picture52.jpg" crc="536723020" seo="true" ref="electron"/>
+    <file name="picture7.jpg" crc="4142980268" seo="true" ref="electron"/>
+  </folder>
+  <file name="index.html" crc="3883996929" seo="true" mt="1513182228722" redirect="true"/>
+  <file name="3b.html" crc="4088743776" seo="true" mt="1513182539273" redirect="true"/>
+  <file name="3c.html" crc="396215036" seo="true" mt="1513182392436" redirect="true"/>
+  <file name="3d.html" crc="3915873324" seo="true" mt="1513182951333" redirect="true"/>
+  <file name="3ba.html" crc="4177415744" seo="true" mt="1512584299863" redirect="true"/>
+  <file name="3bb.html" crc="3972968445" seo="true" mt="1512588101796" redirect="true"/>
+  <file name="3bc.html" crc="138932252" seo="true" mt="1512587428987" redirect="true"/>
+  <file name="3bd.html" crc="186715047" seo="true" mt="1512590270713" redirect="true"/>
+  <file name="3be.html" crc="449344520" seo="true" mt="1512586942745" redirect="true"/>
+  <file name="3bf.html" crc="313960632" seo="true" mt="1512584278307" redirect="true"/>
+  <file name="3a.html" crc="4202462750" seo="true" mt="1513162370378" redirect="true"/>
+  <file name="3aa.html" crc="157842728" seo="true" mt="1512597115190" redirect="true"/>
+  <file name="3ab.html" crc="4009383764" seo="true" mt="1512583201898" redirect="true"/>
+  <file name="3ac.html" crc="446697257" seo="true" mt="1512583548422" redirect="true"/>
+  <file name="3ad.html" crc="346557137" seo="true" mt="1512578976158" redirect="true"/>
+  <file name="3ae.html" crc="4162432339" seo="true" mt="1512591382719" redirect="true"/>
+  <file name="3af.html" crc="3963788497" seo="true" mt="1512591495829" redirect="true"/>
+  <file name="3ag.html" crc="4101278416" seo="true" mt="1512591628170" redirect="true"/>
+  <file name="3ak2.html" crc="212795990" seo="true" mt="1512581733874" redirect="true"/>
+  <file name="3al.html" crc="4258240803" seo="true" mt="1512590974077" redirect="true"/>
+  <file name="3am.html" crc="337854832" seo="true" mt="1512581754352" redirect="true"/>
+  <file name="3ca.html" crc="4256493184" seo="true" mt="1512670672042" redirect="true"/>
+  <file name="3cb.html" crc="414279910" seo="true" mt="1512670709526" redirect="true"/>
+  <file name="3cc.html" crc="3972890334" seo="true" mt="1512599508438" redirect="true"/>
+  <file name="3cd.html" crc="3760144891" seo="true" mt="1512599124790" redirect="true"/>
+  <file name="3ce.html" crc="4241732563" seo="true" mt="1512670798033" redirect="true"/>
+  <file name="3cf.html" crc="23535447" seo="true" mt="1512670827247" redirect="true"/>
+  <file name="3cg.html" crc="3846692275" seo="true" mt="1512670887728" redirect="true"/>
+  <file name="3da.html" crc="3956259465" seo="true" mt="1512669211663" redirect="true"/>
+  <file name="3db.html" crc="3943291405" seo="true" mt="1512669335950" redirect="true"/>
+  <file name="3dc.html" crc="4147949207" seo="true" mt="1512670189184" redirect="true"/>
+  <file name="3dd.html" crc="3863320344" seo="true" mt="1512669937743" redirect="true"/>
+  <file name="3de.html" crc="511251418" seo="true" mt="1512669557650" redirect="true"/>
+  <file name="3df.html" crc="171428911" seo="true" mt="1512669577404" redirect="true"/>
+  <file name="3dg.html" crc="3946304261" seo="true" mt="1512670572455" redirect="true"/>
+  <file name="3dh.html" crc="74747756" seo="true" mt="1512669613953" redirect="true"/>
+  <file name="3di.html" crc="444584936" seo="true" mt="1512669696250" redirect="true"/>
+  <file name="3dj.html" crc="4247926771" seo="true" mt="1512670257756" redirect="true"/>
+  <file name="3dk.html" crc="4265685357" seo="true" mt="1512670281910" redirect="true"/>
+  <file name="3dl.html" crc="421462328" seo="true" mt="1512670312516" redirect="true"/>
+  <file name="3dm.html" crc="4182502027" seo="true" mt="1512670469052" redirect="true"/>
+  <file name="3dn.html" crc="4060819066" seo="true" mt="1512670432166" redirect="true"/>
+  <file name="3ak.html" crc="506441294" seo="true" mt="1513162577804" redirect="true"/>
+  <file name="3ak1.html" crc="214159004" seo="true" mt="1513183087569" redirect="true"/>
+  <file name="biot-savart.html" crc="3968511876" seo="true" mt="1512589521610" redirect="true"/>
+  <file name="application-biot-savart.html" crc="4220676503" seo="true" mt="1513183023359" redirect="true"/>
+  <file name="lorentzforce.html" crc="525013357" seo="true" mt="1512586675405" redirect="true"/>
+  <file name="velocityselector.html" crc="249162161" seo="true" mt="1512590160258" redirect="true"/>
+  <file name="3an.html" crc="4056485774" seo="true" mt="1512591001001" redirect="true"/>
+  <file name="closed-loop.html" crc="367711128" seo="true" mt="1512670688080" redirect="true"/>
+  <file name="ampere.html" crc="371423224" seo="true" mt="1512670728072" redirect="true"/>
+  <file name="magnetic-force-on-coil.html" crc="441814848" seo="true" mt="1512670744338" redirect="true"/>
+  <file name="electron.html" crc="480171630" seo="true" mt="1512670123842" redirect="true"/>
+</manifest>

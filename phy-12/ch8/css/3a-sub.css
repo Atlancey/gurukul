@@ -1,0 +1,149 @@
+.version._3a_sub /* version checker */
+{
+	color: #00000A;
+	background-color: #5F2C0A;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 570px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u36262-4
+{
+	z-index: 14;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	color: #FFFFFF;
+	font-size: 40px;
+	text-align: left;
+	line-height: 48px;
+	position: relative;
+	width: 107.88%;
+	left: -3.94%;
+}
+
+#u36262-2
+{
+	padding-left: 23px;
+	padding-top: 9px;
+}
+
+#u36260-6
+{
+	z-index: 2;
+	min-height: 173px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 44px;
+	position: relative;
+	width: 92.92%;
+	margin-left: 3.68%;
+}
+
+#u36260-2
+{
+	padding-top: 15px;
+}
+
+#u36261-6
+{
+	z-index: 8;
+	min-height: 173px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 25px;
+	position: relative;
+	width: 92.92%;
+	margin-left: 3.42%;
+}
+
+#u36263-6
+{
+	z-index: 18;
+	min-height: 173px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 24px;
+	position: relative;
+	width: 92.92%;
+	margin-left: 3.42%;
+}
+
+#u36264-6
+{
+	z-index: 24;
+	min-height: 173px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #607D8B;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	margin-top: 23px;
+	position: relative;
+	width: 92.92%;
+	margin-left: 3.42%;
+}
+
+#u36264-2
+{
+	padding-top: 11px;
+}
+
+#u36260-4,#u36261-2,#u36261-4,#u36263-2,#u36263-4,#u36264-4
+{
+	padding-top: 9px;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

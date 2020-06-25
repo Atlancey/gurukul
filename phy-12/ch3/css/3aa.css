@@ -1,0 +1,150 @@
+.version._3aa /* version checker */
+{
+	color: #00001F;
+	background-color: #62B4BA;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 570px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u13062-4
+{
+	z-index: 2;
+	min-height: 83px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u13062-2
+{
+	padding-left: 16px;
+	padding-top: 16px;
+}
+
+#u13071-4
+{
+	z-index: 6;
+	min-height: 178px;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 67px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.73%;
+}
+
+#u13074
+{
+	z-index: 10;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 83.99%;
+	margin-left: 7.88%;
+}
+
+#u13083-16
+{
+	z-index: 12;
+	min-height: 178px;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 25px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.47%;
+}
+
+#u13083-3
+{
+	font-weight: bold;
+}
+
+#u13083-2,#u13083-4,#u13083-5
+{
+	color: #C1272D;
+}
+
+#u13083-10,#u13083-12
+{
+	color: #1976D2;
+}
+
+#u13083-7,#u13083-8,#u13083-14
+{
+	color: #000000;
+}
+
+#u78545-4
+{
+	z-index: 30;
+	min-height: 25px;
+	background-color: transparent;
+	font-size: 26px;
+	color: #1976D2;
+	line-height: 31px;
+	margin-top: 71px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.47%;
+}
+
+#u77126
+{
+	z-index: 28;
+	background-color: transparent;
+	margin-top: 22px;
+	position: relative;
+	width: 90.82%;
+	margin-left: 4.47%;
+}
+
+#u13074_img,#u77126_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

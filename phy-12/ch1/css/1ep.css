@@ -1,0 +1,109 @@
+.version._1ep /* version checker */
+{
+	color: #000011;
+	background-color: #AB6F33;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 570px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 8px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u10023-4
+{
+	z-index: 2;
+	min-height: 72px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	line-height: 48px;
+	color: #FFFFFF;
+	position: relative;
+	width: 93.71%;
+	left: -3.94%;
+}
+
+#u10023-2
+{
+	padding-left: 16px;
+	padding-top: 9px;
+}
+
+#u10026-19
+{
+	z-index: 6;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: left;
+	line-height: 29px;
+	margin-top: 42px;
+	position: relative;
+	width: 95.28%;
+	margin-left: 2.37%;
+}
+
+#u10026-8 > li:before
+{
+	content: '-';
+}
+
+#u10029
+{
+	z-index: 25;
+	background-color: transparent;
+	margin-top: 23px;
+	position: relative;
+	width: 61.95%;
+	margin-left: 18.9%;
+}
+
+#u10029_img
+{
+	width: 100%;
+}
+
+#u10037
+{
+	z-index: 27;
+	display: block;
+	vertical-align: top;
+	margin-top: 33px;
+	position: relative;
+	width: 62.47%;
+	margin-left: 18.9%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

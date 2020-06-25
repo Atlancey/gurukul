@@ -1,0 +1,157 @@
+.version._8bh /* version checker */
+{
+	color: #000001;
+	background-color: #2D727B;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 570px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u35679-4
+{
+	z-index: 2;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	line-height: 48px;
+	color: #FFFFFF;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u35679-2
+{
+	padding-left: 21px;
+	padding-top: 11px;
+}
+
+#u35691
+{
+	z-index: 6;
+	background-color: transparent;
+	margin-top: 52px;
+	position: relative;
+	width: 93.44%;
+	margin-left: 3.42%;
+}
+
+#u35711-13
+{
+	z-index: 8;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 10px;
+	position: relative;
+	width: 93.44%;
+	margin-left: 3.42%;
+}
+
+#u50592
+{
+	z-index: 43;
+	background-color: transparent;
+	margin-top: 9px;
+	position: relative;
+	width: 80.84%;
+	margin-left: 9.72%;
+}
+
+#u35738
+{
+	z-index: 21;
+	background-color: transparent;
+	margin-top: 9px;
+	position: relative;
+	width: 93.44%;
+	margin-left: 3.42%;
+}
+
+#u35747-13
+{
+	z-index: 23;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 9px;
+	position: relative;
+	width: 93.44%;
+	margin-left: 3.42%;
+}
+
+#u50602
+{
+	z-index: 45;
+	background-color: transparent;
+	margin-top: 17px;
+	position: relative;
+	width: 66.93%;
+	margin-left: 16.54%;
+}
+
+#u35760
+{
+	z-index: 36;
+	background-color: transparent;
+	margin-top: 17px;
+	position: relative;
+	width: 93.44%;
+	margin-left: 3.42%;
+}
+
+#u35691_img,#u50592_img,#u35738_img,#u50602_img,#u35760_img
+{
+	width: 100%;
+}
+
+#u35769-5
+{
+	z-index: 38;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 13px;
+	position: relative;
+	width: 93.44%;
+	margin-left: 3.42%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

@@ -1,0 +1,160 @@
+.version._9ba /* version checker */
+{
+	color: #0000F9;
+	background-color: #66205D;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 499px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 71px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#u77816-4
+{
+	z-index: 2;
+	min-height: 77px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: -15px;
+	width: 97.12%;
+}
+
+#u77816-2
+{
+	padding-left: 21px;
+}
+
+#pu77818-6
+{
+	margin-right: -10000px;
+	margin-top: 146px;
+	width: 94.23%;
+	margin-left: 2.89%;
+}
+
+#u77818-6
+{
+	z-index: 10;
+	min-height: 44px;
+	background-color: transparent;
+	color: #1976D2;
+	font-size: 28px;
+	text-align: center;
+	line-height: 34px;
+	position: relative;
+	width: 100%;
+}
+
+#u77817-4
+{
+	z-index: 6;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 22px;
+	position: relative;
+	width: 100%;
+}
+
+#u77820-6
+{
+	z-index: 20;
+	min-height: 44px;
+	background-color: transparent;
+	color: #1976D2;
+	font-size: 28px;
+	text-align: center;
+	line-height: 34px;
+	margin-top: 37px;
+	position: relative;
+	width: 100%;
+}
+
+#u77819-4
+{
+	z-index: 16;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 22px;
+	position: relative;
+	width: 100%;
+}
+
+#u77822-6
+{
+	z-index: 30;
+	min-height: 44px;
+	background-color: transparent;
+	color: #1976D2;
+	font-size: 28px;
+	text-align: center;
+	line-height: 34px;
+	margin-top: 57px;
+	position: relative;
+	width: 100%;
+}
+
+#u77821-4
+{
+	z-index: 26;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 22px;
+	position: relative;
+	width: 100%;
+}
+
+#u77837
+{
+	z-index: 36;
+	background-color: transparent;
+	margin-top: 70px;
+	position: relative;
+	width: 99.45%;
+	margin-left: 0.28%;
+}
+
+#u77837_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

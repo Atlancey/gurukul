@@ -1,0 +1,185 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vgpt.atlancey.com" resolutions="1x" timestamp="1515850993683">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="3763787560" ref="index"/>
+    <file name="10aa-1.css" crc="320628185" ref="10aa-1"/>
+    <file name="10aah.css" crc="149869607" ref="10aah"/>
+    <file name="10abc.css" crc="3865048316" ref="10abc"/>
+    <file name="10ua.css" crc="410190432" ref="10ua"/>
+    <file name="10aaa.css" crc="4202759695" ref="10aaa"/>
+    <file name="10aai.css" crc="4275369708" ref="10aai"/>
+    <file name="10abd.css" crc="4136184055" ref="10abd"/>
+    <file name="10ada.css" crc="204353377" ref="10ada"/>
+    <file name="10ub.css" crc="3876951333" ref="10ub"/>
+    <file name="10xb.css" crc="228934881" ref="10xb"/>
+    <file name="10uc.css" crc="4208350749" ref="10uc"/>
+    <file name="10ya.css" crc="3973786664" ref="10ya"/>
+    <file name="10aab.css" crc="4086010817" ref="10aab"/>
+    <file name="10aaj.css" crc="258618583" ref="10aaj"/>
+    <file name="10da-1.css" crc="1837624" ref="10da-1"/>
+    <file name="10adb.css" crc="3848252062" ref="10adb"/>
+    <file name="10aa.css" crc="4293096749" ref="10aa"/>
+    <file name="10aac.css" crc="459629515" ref="10aac"/>
+    <file name="10aak.css" crc="4050987087" ref="10aak"/>
+    <file name="10aca.css" crc="4109625077" ref="10aca"/>
+    <file name="10u.css" crc="4221591913" ref="10u"/>
+    <file name="10aal.css" crc="3819658817" ref="10aal"/>
+    <file name="10ud.css" crc="3885173649" ref="10ud"/>
+    <file name="10xa.css" crc="4292734078" ref="10xa"/>
+    <file name="10aad.css" crc="41238333" ref="10aad"/>
+    <file name="10aam.css" crc="4158784413" ref="10aam"/>
+    <file name="10acb.css" crc="285247272" ref="10acb"/>
+    <file name="10v.css" crc="3925849044" ref="10v"/>
+    <file name="10ab.css" crc="4243976295" ref="10ab"/>
+    <file name="10ba-1.css" crc="484700996" ref="10ba-1"/>
+    <file name="10w.css" crc="4176937056" ref="10w"/>
+    <file name="10ac.css" crc="510679735" ref="10ac"/>
+    <file name="10aae.css" crc="3952913493" ref="10aae"/>
+    <file name="10ca-1.css" crc="4276421034" ref="10ca-1"/>
+    <file name="10acc.css" crc="4141248062" ref="10acc"/>
+    <file name="10yb.css" crc="283579524" ref="10yb"/>
+    <file name="10acd.css" crc="117009224" ref="10acd"/>
+    <file name="10x.css" crc="218160301" ref="10x"/>
+    <file name="10ad.css" crc="225280061" ref="10ad"/>
+    <file name="10aaf.css" crc="319537554" ref="10aaf"/>
+    <file name="10aba.css" crc="334194595" ref="10aba"/>
+    <file name="10ea-1.css" crc="4017335978" ref="10ea-1"/>
+    <file name="10yc.css" crc="3946270534" ref="10yc"/>
+    <file name="10aag.css" crc="30420522" ref="10aag"/>
+    <file name="10abb.css" crc="3803812882" ref="10abb"/>
+    <file name="10y.css" crc="209348593" ref="10y"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:10aa:10ab:10ac:10ad:10aa-1:10aaa:10aab:10aac:10aad:10aae:10aaf:10aag:10aah:10aai:10aaj:10aak:10aal:10aam:10ba-1:10ca-1:10aba:10abb:10abc:10abd:10da-1:10aca:10acb:10acc:10acd:10ea-1:10ada:10adb:10u:10v:10w:10x:10y:10ua:10ub:10uc:10ud:10xa:10xb:10ya:10yb:10yc"/>
+    <file name="museutils.js" crc="3790713428" ref="index:10aa:10ab:10ac:10ad:10aa-1:10aaa:10aab:10aac:10aad:10aae:10aaf:10aag:10aah:10aai:10aaj:10aak:10aal:10aam:10ba-1:10ca-1:10aba:10abb:10abc:10abd:10da-1:10aca:10acb:10acc:10acd:10ea-1:10ada:10adb:10u:10v:10w:10x:10y:10ua:10ub:10uc:10ud:10xa:10xb:10ya:10yb:10yc"/>
+    <file name="whatinput.js" crc="84559013" ref="index:10aa:10ab:10ac:10ad:10aa-1:10aaa:10aab:10aac:10aad:10aae:10aaf:10aag:10aah:10aai:10aaj:10aak:10aal:10aam:10ba-1:10ca-1:10aba:10abb:10abc:10abd:10da-1:10aca:10acb:10acc:10acd:10ea-1:10ada:10adb:10u:10v:10w:10x:10y:10ua:10ub:10uc:10ud:10xa:10xb:10ya:10yb:10yc"/>
+    <file name="pie.js" crc="3827607177" ref="index:10aa:10ab:10ac:10ad:10aa-1:10aaa:10aab:10aac:10aad:10aae:10aaf:10aag:10aah:10aai:10aaj:10aak:10aal:10aam:10ba-1:10ca-1:10aba:10abb:10abc:10abd:10da-1:10aca:10acb:10acc:10acd:10ea-1:10ada:10adb:10u:10v:10w:10x:10y:10ua:10ub:10uc:10ud:10xa:10xb:10ya:10yb:10yc"/>
+  </folder>
+  <folder name="images">
+    <file name="9-18-1.jpg" crc="516256809" seo="true" ref="10ub"/>
+    <file name="9-39.gif" crc="511719374" seo="true" ref="10xa"/>
+    <file name="9-46.jpg" crc="433760162" seo="true" ref="10yb"/>
+    <file name="slide0009_image008.jpg" crc="265787148" seo="true" ref="10aaa"/>
+    <file name="slide0009_image010-u43204.png" crc="528318948" ref="10aaa"/>
+    <file name="slide0016_image026-u43354.png" crc="3975547641" ref="10aah"/>
+    <file name="picture1-crop-u43385.jpg" crc="3855722686" ref="10aai"/>
+    <file name="slide0018_image034.jpg" crc="255167274" seo="true" ref="10aaj"/>
+    <file name="slide0018_image036.gif" crc="3876167002" seo="true" ref="10aaj"/>
+    <file name="slide0019_image039.jpg" crc="3807253804" seo="true" ref="10aak"/>
+    <file name="slide0020_image043.gif" crc="102025171" seo="true" ref="10aal"/>
+    <file name="slide0020_image044-crop-u43506.png" crc="289432747" ref="10aal"/>
+    <file name="slide0020_image045.gif" crc="489890930" seo="true" ref="10aal"/>
+    <file name="slide0021_image048-u43583.png" crc="4289648018" ref="10aam"/>
+    <file name="slide0021_image050.gif" crc="3802925292" seo="true" ref="10aam"/>
+    <file name="slide0024_image057.gif" crc="3972516849" seo="true" ref="10aba"/>
+    <file name="slide0024_image058.gif" crc="152484854" seo="true" ref="10aba"/>
+    <file name="slide0025_image060.gif" crc="3916252952" seo="true" ref="10aba"/>
+    <file name="picture2-u77123.png" crc="322222614" ref="10abb"/>
+    <file name="picture3-u77113.png" crc="4120968846" ref="10abb"/>
+    <file name="slide0030_image076.jpg" crc="206544846" seo="true" ref="10da-1"/>
+    <file name="slide0031_image079.jpg" crc="4099893253" seo="true" ref="10da-1"/>
+    <file name="slide0031_image081.gif" crc="3946035119" seo="true" ref="10da-1"/>
+    <file name="slide0032_image083.gif" crc="4247446634" seo="true" ref="10da-1"/>
+    <file name="slide0033_image086.jpg" crc="3975229760" seo="true" ref="10aca"/>
+    <file name="slide0034_image089.gif" crc="4158382740" seo="true" ref="10aca"/>
+    <file name="slide0035_image092.gif" crc="4142372097" seo="true" ref="10acb"/>
+    <file name="slide0035_image093.jpg" crc="3975214653" seo="true" ref="10acb"/>
+    <file name="slide0037_image098.gif" crc="156490235" seo="true" ref="10acc"/>
+    <file name="slide0037_image099.jpg" crc="227042706" seo="true" ref="10acc"/>
+    <file name="slide0038_image102.gif" crc="4151596196" seo="true" ref="10acc"/>
+    <file name="slide0038_image103-u44097.png" crc="393219759" ref="10acc"/>
+    <file name="slide0038_image105.gif" crc="4199710376" seo="true" ref="10acc"/>
+    <file name="slide0038_image106.gif" crc="4151440464" seo="true" ref="10acc"/>
+    <file name="slide0039_image109.jpg" crc="150832129" seo="true" ref="10acd"/>
+    <file name="slide0041_image113.jpg" crc="62741999" seo="true" ref="10ea-1"/>
+    <file name="slide0041_image115.gif" crc="447625606" seo="true" ref="10ea-1"/>
+    <file name="slide0042_image119.gif" crc="153923285" seo="true" ref="10ada"/>
+    <file name="slide0042_image120.jpg" crc="396576004" seo="true" ref="10ada"/>
+    <file name="slide0043_image123-crop-u44323.jpg" crc="3764183686" ref="10ada"/>
+    <file name="slide0043_image124.gif" crc="72501344" seo="true" ref="10ada"/>
+    <file name="slide0043_image125.gif" crc="4024243870" seo="true" ref="10ada"/>
+    <file name="slide0043_image126.gif" crc="160388972" seo="true" ref="10ada"/>
+    <file name="slide0044_image129.gif" crc="3818444957" seo="true" ref="10adb"/>
+    <file name="slide0044_image130.jpg" crc="4202933380" seo="true" ref="10adb"/>
+    <file name="slide0045_image133.jpg" crc="4015547013" seo="true" ref="10adb"/>
+    <file name="9-26.jpg" crc="89367977" seo="true" ref="10v"/>
+    <file name="9-27.gif" crc="4127951763" seo="true" ref="10v"/>
+    <file name="9-29-1.jpg" crc="255715053" seo="true" ref="10v"/>
+    <file name="9-29-2.gif" crc="3759146430" seo="true" ref="10v"/>
+    <file name="9-30-1.gif" crc="3805660291" seo="true" ref="10v"/>
+    <file name="9-30-2.gif" crc="3909563460" seo="true" ref="10v"/>
+    <file name="9-31.jpg" crc="403203338" seo="true" ref="10w"/>
+    <file name="9-14.jpg" crc="460956262" seo="true" ref="10ua"/>
+    <file name="9-15.gif" crc="527695401" seo="true" ref="10ua"/>
+    <file name="9-16-1.gif" crc="4161633595" seo="true" ref="10ua"/>
+    <file name="9-16-2.jpg" crc="4098001419" seo="true" ref="10ua"/>
+    <file name="9-18-2.gif" crc="4069528617" seo="true" ref="10ub"/>
+    <file name="9-18-3.gif" crc="4094682671" seo="true" ref="10ub"/>
+    <file name="9-19.jpg" crc="3961132345" seo="true" ref="10uc"/>
+    <file name="9-21-1.jpg" crc="212532962" seo="true" ref="10uc"/>
+    <file name="9-21-2.gif" crc="4282469082" seo="true" ref="10uc"/>
+    <file name="9-22.gif" crc="3845877154" seo="true" ref="10uc"/>
+    <file name="9-23.jpg" crc="14507438" seo="true" ref="10ud"/>
+    <file name="9-25.jpg" crc="4249721797" seo="true" ref="10ud"/>
+    <file name="9-35.jpg" crc="3940438126" seo="true" ref="10xa"/>
+    <file name="9-36-1.gif" crc="4124804807" seo="true" ref="10xa"/>
+    <file name="9-36-2.jpg" crc="321585009" seo="true" ref="10xa"/>
+    <file name="9-37-1-u45242.png" crc="4143248070" ref="10xa"/>
+    <file name="9-37-2.jpg" crc="183742438" seo="true" ref="10xa"/>
+    <file name="9-38.jpg" crc="3915698665" seo="true" ref="10xa"/>
+    <file name="9-40.png" crc="179235416" seo="true" ref="10xa"/>
+    <file name="9-42.jpg" crc="259835460" seo="true" ref="10xb"/>
+    <file name="9-43.jpg" crc="3784528962" seo="true" ref="10ya"/>
+    <file name="9-45.jpg" crc="3877614144" seo="true" ref="10yb"/>
+    <file name="9-50-1.jpg" crc="4065382628" seo="true" ref="10yc"/>
+    <file name="9-50-2.gif" crc="254735045" seo="true" ref="10yc"/>
+    <file name="image2.gif" crc="3867673367" seo="true" ref="10abb"/>
+  </folder>
+  <file name="index.html" crc="3764211990" seo="true" mt="1513421893708" redirect="true"/>
+  <file name="10aa.html" crc="46968583" seo="true" mt="1513422357382" redirect="true"/>
+  <file name="10ab.html" crc="304905260" seo="true" mt="1513424475996" redirect="true"/>
+  <file name="10ac.html" crc="3805128710" seo="true" mt="1513952125613" redirect="true"/>
+  <file name="10ad.html" crc="337898128" seo="true" mt="1513424119197" redirect="true"/>
+  <file name="10aa-1.html" crc="4269230442" seo="true" mt="1514094979367" redirect="true"/>
+  <file name="10aaa.html" crc="3776085098" seo="true" mt="1514095004950" redirect="true"/>
+  <file name="10aab.html" crc="186482293" seo="true" mt="1514095023174" redirect="true"/>
+  <file name="10aac.html" crc="3933542686" seo="true" mt="1514095041422" redirect="true"/>
+  <file name="10aad.html" crc="3975211694" seo="true" mt="1514095107009" redirect="true"/>
+  <file name="10aae.html" crc="309863340" seo="true" mt="1514095101114" redirect="true"/>
+  <file name="10aaf.html" crc="442641889" seo="true" mt="1514095127463" redirect="true"/>
+  <file name="10aag.html" crc="3874342038" seo="true" mt="1514095139465" redirect="true"/>
+  <file name="10aah.html" crc="4224253573" seo="true" mt="1514095208172" redirect="true"/>
+  <file name="10aai.html" crc="3968638886" seo="true" mt="1514095228692" redirect="true"/>
+  <file name="10aaj.html" crc="4000508671" seo="true" mt="1514095300662" redirect="true"/>
+  <file name="10aak.html" crc="4122957001" seo="true" mt="1514095314508" redirect="true"/>
+  <file name="10aal.html" crc="4129939740" seo="true" mt="1514095329129" redirect="true"/>
+  <file name="10aam.html" crc="3929458797" seo="true" mt="1514095354724" redirect="true"/>
+  <file name="10ba-1.html" crc="3763441992" seo="true" mt="1514094966302" redirect="true"/>
+  <file name="10ca-1.html" crc="418589322" seo="true" mt="1514094959147" redirect="true"/>
+  <file name="10aba.html" crc="4051359576" seo="true" mt="1514094949767" redirect="true"/>
+  <file name="10abb.html" crc="148700893" seo="true" mt="1515850962960" redirect="true"/>
+  <file name="10abc.html" crc="451517462" seo="true" mt="1511473547486" redirect="true"/>
+  <file name="10abd.html" crc="345998058" seo="true" mt="1511473547490" redirect="true"/>
+  <file name="10da-1.html" crc="221310209" seo="true" mt="1514095667564" redirect="true"/>
+  <file name="10aca.html" crc="3841223120" seo="true" mt="1513952087757" redirect="true"/>
+  <file name="10acb.html" crc="4283000363" seo="true" mt="1514095732968" redirect="true"/>
+  <file name="10acc.html" crc="533262336" seo="true" mt="1514095814253" redirect="true"/>
+  <file name="10acd.html" crc="4126936746" seo="true" mt="1514095841338" redirect="true"/>
+  <file name="10ea-1.html" crc="184023854" seo="true" mt="1514095889789" redirect="true"/>
+  <file name="10ada.html" crc="72163250" seo="true" mt="1514096044126" redirect="true"/>
+  <file name="10adb.html" crc="178584409" seo="true" mt="1514096064106" redirect="true"/>
+  <file name="10u.html" crc="207297163" seo="true" mt="1513424262832" redirect="true"/>
+  <file name="10v.html" crc="219544241" seo="true" mt="1514096233919" redirect="true"/>
+  <file name="10w.html" crc="4051671818" seo="true" mt="1514096260936" redirect="true"/>
+  <file name="10x.html" crc="189835433" seo="true" mt="1513424339474" redirect="true"/>
+  <file name="10y.html" crc="479650255" seo="true" mt="1513424425065" redirect="true"/>
+  <file name="10ua.html" crc="514408793" seo="true" mt="1514096122339" redirect="true"/>
+  <file name="10ub.html" crc="411582751" seo="true" mt="1513951481234" redirect="true"/>
+  <file name="10uc.html" crc="365610987" seo="true" mt="1514096159387" redirect="true"/>
+  <file name="10ud.html" crc="3928923349" seo="true" mt="1513951384296" redirect="true"/>
+  <file name="10xa.html" crc="530764365" seo="true" mt="1515850094876" redirect="true"/>
+  <file name="10xb.html" crc="401460613" seo="true" mt="1513951161567" redirect="true"/>
+  <file name="10ya.html" crc="3832850314" seo="true" mt="1514096352311" redirect="true"/>
+  <file name="10yb.html" crc="30015380" seo="true" mt="1514096395097" redirect="true"/>
+  <file name="10yc.html" crc="3928677892" seo="true" mt="1514096405101" redirect="true"/>
+</manifest>

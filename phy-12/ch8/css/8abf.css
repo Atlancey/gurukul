@@ -1,0 +1,149 @@
+.version._8abf /* version checker */
+{
+	color: #0000E8;
+	background-color: #9F32A1;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.6000000000004px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u37837-4
+{
+	z-index: 2;
+	min-height: 82px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	line-height: 48px;
+	color: #FFFFFF;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u37837-2
+{
+	padding-left: 21px;
+	padding-top: 15px;
+}
+
+#u37836-4
+{
+	z-index: 6;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 35px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 3.42%;
+}
+
+#u37843
+{
+	z-index: 10;
+	display: block;
+	vertical-align: top;
+	margin-top: 26px;
+	position: relative;
+	width: 86.09%;
+	margin-left: 7.09%;
+}
+
+#u37852
+{
+	z-index: 12;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 87.14%;
+	margin-left: 6.04%;
+}
+
+#u37861
+{
+	z-index: 14;
+	background-color: transparent;
+	margin-top: 23px;
+	position: relative;
+	width: 78.75%;
+	margin-left: 9.98%;
+}
+
+#u37870-4
+{
+	z-index: 16;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 24px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 2.63%;
+}
+
+#u37873
+{
+	z-index: 20;
+	display: block;
+	vertical-align: top;
+	margin-top: 22px;
+	position: relative;
+	width: 86.09%;
+	margin-left: 6.83%;
+}
+
+#u37882
+{
+	z-index: 22;
+	background-color: transparent;
+	margin-top: 21px;
+	position: relative;
+	width: 87.93%;
+	margin-left: 6.04%;
+}
+
+#u37852_img,#u37861_img,#u37882_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

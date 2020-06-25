@@ -1,0 +1,151 @@
+.version._6am /* version checker */
+{
+	color: #0000E0;
+	background-color: #E829F8;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.6438272500002px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 11px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u26835-6
+{
+	z-index: 2;
+	min-height: 113px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	color: #FFFFFF;
+	line-height: 48px;
+	font-size: 40px;
+	text-align: left;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u26835-2
+{
+	padding-left: 21px;
+	padding-top: 15px;
+	font-weight: normal;
+}
+
+#u26835-4
+{
+	padding-left: 21px;
+}
+
+#u26836-6
+{
+	z-index: 8;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 44px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 3.15%;
+}
+
+#u30356
+{
+	z-index: 44;
+	background-color: transparent;
+	margin-top: 27px;
+	position: relative;
+	width: 94.23%;
+	margin-left: 2.63%;
+}
+
+#u26840-30
+{
+	z-index: 14;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 30px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 3.15%;
+}
+
+#u26840-2,#u26840-3,#u26840-8,#u26840-9,#u26840-14,#u26840-16,#u26840-18,#u26840-20,#u26840-21
+{
+	text-align: justify;
+}
+
+#u26840-5,#u26840-6,#u26840-11,#u26840-13,#u26840-23,#u26840-25,#u26840-27
+{
+	text-align: center;
+}
+
+#u26840-28
+{
+	text-align: center;
+	font-weight: normal;
+}
+
+#u79634
+{
+	z-index: 48;
+	background-color: transparent;
+	margin-top: 19px;
+	position: relative;
+	width: 95.02%;
+	margin-left: 2.63%;
+}
+
+#u30383
+{
+	z-index: 46;
+	background-color: transparent;
+	margin-top: 19px;
+	position: relative;
+	width: 94.76%;
+	margin-left: 2.63%;
+}
+
+#u30356_img,#u79634_img,#u30383_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

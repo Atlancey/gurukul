@@ -1,0 +1,144 @@
+.version._3a_a /* version checker */
+{
+	color: #000010;
+	background-color: #4A3A7A;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 570px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u36485-4
+{
+	z-index: 2;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	line-height: 48px;
+	color: #FFFFFF;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u36485-2
+{
+	padding-left: 21px;
+	padding-top: 11px;
+}
+
+#u36479-6
+{
+	z-index: 6;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 47px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 3.15%;
+}
+
+#u36492
+{
+	z-index: 12;
+	background-color: transparent;
+	margin-top: 31px;
+	position: relative;
+	width: 88.46%;
+	margin-left: 4.73%;
+}
+
+#u36506
+{
+	z-index: 14;
+	background-color: transparent;
+	margin-top: 32px;
+	position: relative;
+	width: 89.24%;
+	margin-left: 4.73%;
+}
+
+#u36515
+{
+	z-index: 16;
+	background-color: transparent;
+	margin-top: 31px;
+	position: relative;
+	width: 86.88%;
+	margin-left: 5.78%;
+}
+
+#u36524
+{
+	z-index: 18;
+	display: block;
+	vertical-align: top;
+	margin-top: 25px;
+	position: relative;
+	width: 92.92%;
+	margin-left: 2.89%;
+}
+
+#u36534
+{
+	z-index: 20;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 91.87%;
+	margin-left: 3.94%;
+}
+
+#u36543
+{
+	z-index: 22;
+	background-color: transparent;
+	margin-top: 32px;
+	position: relative;
+	width: 93.44%;
+	margin-left: 3.15%;
+}
+
+#u36492_img,#u36506_img,#u36515_img,#u36534_img,#u36543_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

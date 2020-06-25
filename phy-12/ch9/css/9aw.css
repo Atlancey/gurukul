@@ -1,0 +1,140 @@
+.version._9aw /* version checker */
+{
+	color: #00001D;
+	background-color: #263AC5;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 499px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 71px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#u40496-4
+{
+	z-index: 2;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: -15px;
+	width: 97.12%;
+}
+
+#u40496-2
+{
+	padding-left: 21px;
+	padding-top: 8px;
+}
+
+#pu40499-7
+{
+	margin-right: -10000px;
+	margin-top: 125px;
+	width: 93.97%;
+	margin-left: 2.89%;
+}
+
+#u40499-7
+{
+	z-index: 6;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	position: relative;
+	width: 99.73%;
+	margin-left: 0.28%;
+}
+
+#u40499-5
+{
+	font-weight: bold;
+}
+
+#u40522
+{
+	z-index: 13;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 99.73%;
+}
+
+#u40531-4
+{
+	z-index: 15;
+	background-color: transparent;
+	line-height: 29px;
+	font-size: 24px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 46px;
+	position: relative;
+	width: 99.73%;
+}
+
+#u40534
+{
+	z-index: 19;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 100%;
+}
+
+#u40541
+{
+	z-index: 21;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 100%;
+}
+
+#u40548
+{
+	z-index: 23;
+	background-color: transparent;
+	margin-top: 25px;
+	position: relative;
+	width: 100%;
+}
+
+#u40522_img,#u40534_img,#u40541_img,#u40548_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

@@ -1,0 +1,142 @@
+.version._10uc /* version checker */
+{
+	color: #0000FA;
+	background-color: #D6561D;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.5294117647063px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u44844-4
+{
+	z-index: 2;
+	min-height: 80px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	font-size: 40px;
+	color: #FFFFFF;
+	line-height: 48px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u44844-2
+{
+	padding-left: 22px;
+	padding-top: 8px;
+}
+
+#u44847-8
+{
+	z-index: 6;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 33px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 3.68%;
+}
+
+#u44847-2,#u44847-4
+{
+	font-weight: bold;
+}
+
+#u44860
+{
+	z-index: 14;
+	background-color: transparent;
+	margin-top: 17px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 3.68%;
+}
+
+#u44870-15
+{
+	z-index: 16;
+	background-color: transparent;
+	font-size: 24px;
+	text-align: justify;
+	line-height: 29px;
+	margin-top: 15px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 3.68%;
+}
+
+#u44873
+{
+	z-index: 31;
+	background-color: transparent;
+	margin-top: 19px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 3.68%;
+}
+
+#u44881
+{
+	z-index: 33;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 3.68%;
+}
+
+#u44888
+{
+	z-index: 35;
+	background-color: transparent;
+	margin-top: 20px;
+	position: relative;
+	width: 92.66%;
+	margin-left: 3.68%;
+}
+
+#u44860_img,#u44873_img,#u44881_img,#u44888_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+

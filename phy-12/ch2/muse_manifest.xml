@@ -1,0 +1,156 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vgpt.atlancey.com" resolutions="1x" timestamp="1513145006539">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="500120102" ref="index"/>
+    <file name="master_lessons.css" crc="129907985" ref="index"/>
+    <file name="2aaa.css" crc="54306860" ref="2aaa"/>
+    <file name="2ab.css" crc="4035198349" ref="2ab"/>
+    <file name="2ak.css" crc="4268534259" ref="2ak"/>
+    <file name="2be.css" crc="3776862303" ref="2be"/>
+    <file name="2ac.css" crc="112120736" ref="2ac"/>
+    <file name="2a.css" crc="252061059" ref="2a"/>
+    <file name="2b.css" crc="491819158" ref="2b"/>
+    <file name="2ad.css" crc="3807847865" ref="2ad"/>
+    <file name="2aa.css" crc="4181259308" ref="2aa"/>
+    <file name="2ba.css" crc="19031365" ref="2ba"/>
+    <file name="2ae.css" crc="463163378" ref="2ae"/>
+    <file name="2ah.css" crc="3989540701" ref="2ah"/>
+    <file name="2bb.css" crc="408303424" ref="2bb"/>
+    <file name="2af.css" crc="3869121495" ref="2af"/>
+    <file name="2aj.css" crc="4079839987" ref="2aj"/>
+    <file name="2bc.css" crc="4150663978" ref="2bc"/>
+    <file name="2ag.css" crc="345851941" ref="2ag"/>
+    <file name="2ai.css" crc="4153013631" ref="2ai"/>
+    <file name="2bd.css" crc="4272075705" ref="2bd"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:2b:2ba:2bb:2bc:2bd:2be:2a:2aa:2ab:2ac:2ad:2ae:2af:2ag:2ah:2ai:2aj:2ak:2aaa"/>
+    <file name="museutils.js" crc="3790713428" ref="index:2b:2ba:2bb:2bc:2bd:2be:2a:2aa:2ab:2ac:2ad:2ae:2af:2ag:2ah:2ai:2aj:2ak:2aaa"/>
+    <file name="whatinput.js" crc="84559013" ref="index:2b:2ba:2bb:2bc:2bd:2be:2a:2aa:2ab:2ac:2ad:2ae:2af:2ag:2ah:2ai:2aj:2ak:2aaa"/>
+    <file name="pie.js" crc="3827607177" ref="index:2b:2ba:2bb:2bc:2bd:2be:2a:2aa:2ab:2ac:2ad:2ae:2af:2ag:2ah:2ai:2aj:2ak:2aaa"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:2b"/>
+  </folder>
+  <folder name="images">
+    <file name="picture1.png" crc="332303063" seo="true" ref="2ae"/>
+    <file name="12.gif" crc="4259889684" seo="true" ref="2ba"/>
+    <file name="13-1.gif" crc="67990199" seo="true" ref="2ba"/>
+    <file name="13-2.gif" crc="3828538889" seo="true" ref="2ba"/>
+    <file name="16-1.gif" crc="119474086" seo="true" ref="2ba"/>
+    <file name="16-2.gif" crc="3845290287" seo="true" ref="2ba"/>
+    <file name="16-3.jpg" crc="163934368" seo="true" ref="2ba:2bb:2bc:2bd:2be"/>
+    <file name="16-4.gif" crc="4032270310" seo="true" ref="2ba"/>
+    <file name="14.jpg" crc="3876776907" seo="true" ref="2ba"/>
+    <file name="1st.jpg" crc="3838384352" seo="true" ref="2ba"/>
+    <file name="slide0002_image002.jpg" crc="74577753" seo="true" ref="2ba"/>
+    <file name="slide0002_image005.jpg" crc="4276277411" seo="true" ref="2ba"/>
+    <file name="slide0002_image007.jpg" crc="4149444358" seo="true" ref="2ba"/>
+    <file name="1.jpg" crc="507279751" seo="true" ref="2ba"/>
+    <file name="slide0003_image010.jpg" crc="29023311" seo="true" ref="2ba"/>
+    <file name="slide0001_image001-u78696.png" crc="354946353" ref="2bb"/>
+    <file name="u9030-30.png" crc="3974020382" ref="2bb"/>
+    <file name="picture3-u81037.png" crc="3837023324" ref="2bb"/>
+    <file name="picture4-u81047.png" crc="3946446537" ref="2bb"/>
+    <file name="picture5.jpg" crc="248984436" seo="true" ref="2bb"/>
+    <file name="picture7-u81077.png" crc="3811531401" ref="2bb"/>
+    <file name="picture6.jpg" crc="4077655464" seo="true" ref="2bb"/>
+    <file name="20.jpg" crc="4054204326" seo="true" ref="2bc"/>
+    <file name="21.jpg" crc="82946865" seo="true" ref="2bd"/>
+    <file name="picture8.jpg" crc="46485399" seo="true" ref="2bd"/>
+    <file name="22-u9289.png" crc="4042308770" ref="2be"/>
+    <file name="pictxure5-u81188.png" crc="4239929832" ref="2be"/>
+    <file name="b2-8-24-u9322.png" crc="3861827946" ref="2be"/>
+    <file name="u10451-33.png" crc="482320037" ref="2aa"/>
+    <file name="picture3.png" crc="3910421280" seo="true" ref="2ab"/>
+    <file name="u10485-19.png" crc="3960253452" ref="2ab"/>
+    <file name="picture16.jpg" crc="4225108768" seo="true" ref="2ab"/>
+    <file name="picture15.jpg" crc="215931855" seo="true" ref="2ab"/>
+    <file name="screenshot (83)-u81198.png" crc="56599053" ref="2ac"/>
+    <file name="drift vel.png" crc="421019016" seo="true" ref="2ad"/>
+    <file name="u11672-38.png" crc="208198961" ref="2ae"/>
+    <file name="picture19.jpg" crc="509894477" seo="true" ref="2ae"/>
+    <file name="picture20.jpg" crc="284027768" seo="true" ref="2ae"/>
+    <file name="u11694-32.png" crc="284867953" ref="2ae"/>
+    <file name="image18.gif" crc="3819212103" seo="true" ref="2af"/>
+    <file name="picture21.jpg" crc="4264975948" seo="true" ref="2af"/>
+    <file name="picture22.jpg" crc="3791645846" seo="true" ref="2af"/>
+    <file name="u11715-7.png" crc="3867285386" ref="2af"/>
+    <file name="picture23.jpg" crc="56742458" seo="true" ref="2af"/>
+    <file name="u11738-6.png" crc="4210816791" ref="2af"/>
+    <file name="u11741-17.png" crc="3834044893" ref="2af"/>
+    <file name="picture24.jpg" crc="197751145" seo="true" ref="2af"/>
+    <file name="u11754-6.png" crc="449818777" ref="2af"/>
+    <file name="u11757-7.png" crc="535884896" ref="2af"/>
+    <file name="picture25.jpg" crc="4192651207" seo="true" ref="2af"/>
+    <file name="u11760-8.png" crc="252371387" ref="2af"/>
+    <file name="image9-u11798.png" crc="4155715389" ref="2af"/>
+    <file name="slide0001_image001.gif" crc="4206781483" seo="true" ref="2af"/>
+    <file name="picture1.jpg" crc="467433301" seo="true" ref="2af"/>
+    <file name="u11838-8.png" crc="4292199223" ref="2af"/>
+    <file name="u11844-12.png" crc="77366891" ref="2af"/>
+    <file name="u10771-11.png" crc="415681907" ref="2ag"/>
+    <file name="u11856-22.png" crc="4068829857" ref="2ag"/>
+    <file name="picture27.png" crc="4047675540" seo="true" ref="2ah"/>
+    <file name="picture28.png" crc="4059750397" seo="true" ref="2ah"/>
+    <file name="screenshot (80).jpg" crc="3924454085" seo="true" ref="2ah"/>
+    <file name="2(a)low resistance coldwire-1-.gif" crc="117492018" seo="true" ref="2ai"/>
+    <file name="image17.gif" crc="4167882559" seo="true" ref="2ai"/>
+    <file name="screenshot (84)-u81208.png" crc="366545226" ref="2ai"/>
+    <file name="picture29.jpg" crc="3862613872" seo="true" ref="2ai"/>
+    <file name="picture30.jpg" crc="4084017940" seo="true" ref="2ai"/>
+    <file name="2(a) seriec combination.gif" crc="4170438819" seo="true" ref="2aj"/>
+    <file name="picture34.gif" crc="315158711" seo="true" ref="2aj"/>
+    <file name="picture35.gif" crc="8169167" seo="true" ref="2aj"/>
+    <file name="picture36.jpg" crc="4153155759" seo="true" ref="2aj"/>
+    <file name="2-u80500.png" crc="342655073" ref="2aj"/>
+    <file name="picture39.jpg" crc="3775593857" seo="true" ref="2aj"/>
+    <file name="picture40.jpg" crc="189184993" seo="true" ref="2aj"/>
+    <file name="2(a) parallel combination.gif" crc="4006310750" seo="true" ref="2aj"/>
+    <file name="picture41.gif" crc="5213693" seo="true" ref="2aj"/>
+    <file name="picture42.gif" crc="509317523" seo="true" ref="2aj"/>
+    <file name="picture43.jpg" crc="37074798" seo="true" ref="2aj"/>
+    <file name="picture1.gif" crc="4197403547" seo="true" ref="2aj"/>
+    <file name="picture2.png" crc="395657060" seo="true" ref="2aj"/>
+    <file name="3.png" crc="73673034" seo="true" ref="2aj"/>
+    <file name="2(a)battery-1-.gif" crc="214826149" seo="true" ref="2ak"/>
+    <file name="12.jpg" crc="3943677975" seo="true" ref="2ak"/>
+    <file name="picture47.jpg" crc="391839430" seo="true" ref="2ak"/>
+    <file name="picture48.jpg" crc="468360011" seo="true" ref="2ak"/>
+    <file name="4.png" crc="3861093651" seo="true" ref="2ak"/>
+    <file name="i copy.png" crc="320400997" seo="true" ref="2ak"/>
+    <file name="1.png" crc="3894826027" seo="true" ref="2ak"/>
+    <file name="32.png" crc="131638759" seo="true" ref="2ak"/>
+    <file name="42.png" crc="159733544" seo="true" ref="2ak"/>
+    <file name="5.png" crc="4007599878" seo="true" ref="2ak"/>
+    <file name="picture55-u12147.png" crc="273224298" ref="2ak"/>
+    <file name="picture56-u12149.png" crc="109797052" ref="2ak"/>
+    <file name="6.png" crc="3766421299" seo="true" ref="2ak"/>
+    <file name="picture58-u12157.png" crc="395764106" ref="2ak"/>
+    <file name="picture59-u12159.png" crc="3795128611" ref="2ak"/>
+    <file name="8.png" crc="3780145270" seo="true" ref="2ak"/>
+    <file name="7.png" crc="181561545" seo="true" ref="2ak"/>
+    <file name="9.png" crc="292436616" seo="true" ref="2ak"/>
+    <file name="11.png" crc="3824865387" seo="true" ref="2ak"/>
+    <file name="12.png" crc="4255235992" seo="true" ref="2ak"/>
+    <file name="picture65-u12172.png" crc="4172682111" ref="2ak"/>
+  </folder>
+  <file name="index.html" crc="3942211137" seo="true" mt="1513144993257" redirect="true"/>
+  <file name="2b.html" crc="3924586084" seo="true" mt="1513144253805" redirect="true"/>
+  <file name="2ba.html" crc="238631058" seo="true" mt="1513003679484" redirect="true"/>
+  <file name="2bb.html" crc="248707754" seo="true" mt="1512997038056" redirect="true"/>
+  <file name="2bc.html" crc="4079855108" seo="true" mt="1512997581369" redirect="true"/>
+  <file name="2bd.html" crc="27681461" seo="true" mt="1512997068219" redirect="true"/>
+  <file name="2be.html" crc="4090485507" seo="true" mt="1513003738760" redirect="true"/>
+  <file name="2a.html" crc="535543979" seo="true" mt="1513144002898" redirect="true"/>
+  <file name="2aa.html" crc="4079488306" seo="true" mt="1512995944025" redirect="true"/>
+  <file name="2ab.html" crc="223507897" seo="true" mt="1512996016580" redirect="true"/>
+  <file name="2ac.html" crc="434379680" seo="true" mt="1513003451553" redirect="true"/>
+  <file name="2ad.html" crc="4082766340" seo="true" mt="1512601608654" redirect="true"/>
+  <file name="2ae.html" crc="3913576209" seo="true" mt="1512996126202" redirect="true"/>
+  <file name="2af.html" crc="66117407" seo="true" mt="1512996223330" redirect="true"/>
+  <file name="2ag.html" crc="481638767" seo="true" mt="1512996305046" redirect="true"/>
+  <file name="2ah.html" crc="4272691709" seo="true" mt="1512996492281" redirect="true"/>
+  <file name="2ai.html" crc="4276194655" seo="true" mt="1513003539945" redirect="true"/>
+  <file name="2aj.html" crc="229868284" seo="true" mt="1512996861946" redirect="true"/>
+  <file name="2ak.html" crc="139384991" seo="true" mt="1512996968526" redirect="true"/>
+  <file name="2aaa.html" crc="70741663" seo="true" mt="1513144135944" redirect="true"/>
+</manifest>

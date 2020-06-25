@@ -1,0 +1,136 @@
+.version._6aw /* version checker */
+{
+	color: #000016;
+	background-color: #EB154B;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 569.5850553201758px;
+	-pie-box-shadow: 6px 6px 8px #101010;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #CFD8DC;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 381px;
+}
+
+#page_position_content
+{
+	padding-top: 11px;
+	padding-bottom: 71px;
+	width: 100%;
+}
+
+#u27265-4
+{
+	z-index: 2;
+	min-height: 113px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #1976D2;
+	color: #FFFFFF;
+	font-size: 40px;
+	text-align: left;
+	line-height: 48px;
+	position: relative;
+	width: 97.12%;
+	left: -3.94%;
+}
+
+#u27265-2
+{
+	padding-left: 21px;
+	padding-top: 15px;
+}
+
+#u27423
+{
+	z-index: 55;
+	display: block;
+	vertical-align: top;
+	margin-top: 37px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 3.15%;
+}
+
+#u27284-49
+{
+	z-index: 6;
+	background-color: transparent;
+	color: #000000;
+	font-size: 24px;
+	line-height: 29px;
+	margin-top: 31px;
+	position: relative;
+	width: 93.97%;
+	margin-left: 3.15%;
+}
+
+#u27284-5,#u27284-7,#u27284-8,#u27284-10,#u27284-16,#u27284-17,#u27284-19,#u27284-21,#u27284-22,#u27284-28,#u27284-34,#u27284-44
+{
+	text-align: center;
+}
+
+#u27284-2,#u27284-3,#u27284-45,#u27284-47
+{
+	text-align: justify;
+}
+
+#u27454
+{
+	z-index: 57;
+	background-color: transparent;
+	margin-top: 83px;
+	position: relative;
+	width: 95.02%;
+	margin-left: 2.37%;
+}
+
+#u27461
+{
+	z-index: 59;
+	background-color: transparent;
+	margin-top: 24px;
+	position: relative;
+	width: 91.87%;
+	margin-left: 4.2%;
+}
+
+#u27468
+{
+	z-index: 61;
+	background-color: transparent;
+	margin-top: 24px;
+	position: relative;
+	width: 94.49%;
+	margin-left: 2.37%;
+}
+
+#u27454_img,#u27461_img,#u27468_img
+{
+	width: 100%;
+}
+
+.html
+{
+	background-color: #212121;
+}
+
+body
+{
+	position: relative;
+	min-width: 260px;
+	padding: 15px;
+}
+
